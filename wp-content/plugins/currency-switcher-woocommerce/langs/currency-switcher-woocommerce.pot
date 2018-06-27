@@ -1,0 +1,291 @@
+# Copyright (C) 2016 Currency Switcher for WooCommerce
+# This file is distributed under the same license as the Currency Switcher for WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Currency Switcher for WooCommerce 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/currency-switcher-"
+"woocommerce\n"
+"POT-Creation-Date: 2016-07-28 16:52:08+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: currency-switcher-woocommerce.php:140
+msgid "Settings"
+msgstr ""
+
+#: currency-switcher-woocommerce.php:141
+msgid "Unlock all"
+msgstr ""
+
+#: includes/admin/class-alg-currency-reports.php:45
+msgid "Reports currency:"
+msgstr ""
+
+#: includes/admin/class-alg-currency-reports.php:47
+#: includes/admin/class-alg-currency-reports.php:73
+msgid "Show reports only in"
+msgstr ""
+
+#: includes/admin/class-alg-wc-currency-switcher-per-product.php:60
+msgid "Regular Price"
+msgstr ""
+
+#: includes/admin/class-alg-wc-currency-switcher-per-product.php:69
+msgid "Sale Price"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currencies.php:24
+msgid "Currencies"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currencies.php:42
+msgid "Save changes"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currencies.php:81
+msgid "Additional Currencies"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currencies.php:83
+msgid ""
+"Select additional currencies here. Your shop's default currency %s will be "
+"added automatically."
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currencies.php:87
+msgid "Total Currencies"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currencies.php:93
+msgid "Get %s plugin to change this number"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currencies.php:95
+msgid "Currency Switcher for WooCommerce Pro"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currencies.php:106
+msgid "Currency"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-currencies.php:107
+msgid "Enabled"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-exchange-rates.php:24
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-exchange-rates.php:116
+msgid "Exchange Rates"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-exchange-rates.php:110
+msgid "%s seconds till next update."
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-exchange-rates.php:122
+msgid "Exchange Rates Updates"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-exchange-rates.php:127
+msgid "Enter Rates Manually"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-exchange-rates.php:128
+msgid "Update Automatically Every Minute"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-exchange-rates.php:129
+msgid "Update Automatically Hourly"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-exchange-rates.php:130
+msgid "Update Automatically Twice Daily"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-exchange-rates.php:131
+msgid "Update Automatically Daily"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-exchange-rates.php:132
+msgid "Update Automatically Weekly"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-exchange-rates.php:150
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-exchange-rates.php:151
+msgid "Grab %s rate from Yahoo.com"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:24
+msgid "General"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:37
+msgid "Currency Switcher Plugin Options"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:42
+msgid "WooCommerce Currency Switcher Plugin"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:43
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:51
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:59
+msgid "Enable"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Currency Switcher for WooCommerce 1.0.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:44
+msgid "Currency Switcher for WooCommerce"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:50
+msgid "Currency Switcher on per Product Basis"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:52
+msgid "This will add meta boxes in product edit."
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:58
+msgid "Revert Currency to Default on Checkout"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:65
+msgid "Switcher Placement"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:66
+msgid ""
+"Also you can use switcher widget, shortcodes "
+"[woocommerce_currency_switcher_drop_down_box], "
+"[woocommerce_currency_switcher_radio_list], "
+"[woocommerce_currency_switcher_link_list] or functions."
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:72
+msgid "Product Single Page - After Price - Radio"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:73
+msgid "Product Single Page - After Price - Drop Down"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:74
+msgid "Product Single Page - After Price - Links"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:78
+msgid "Rounding"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:79
+msgid "If using exchange rates, choose rounding here."
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:84
+msgid "No rounding"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:85
+msgid "Round"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:86
+msgid "Round up"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:87
+msgid "Round down"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:91
+msgid "Precision"
+msgstr ""
+
+#: includes/admin/settings/class-alg-wc-currency-switcher-settings-general.php:92
+msgid "If rounding enabled, set precision here."
+msgstr ""
+
+#: includes/admin/settings/class-wc-settings-currency-switcher.php:24
+msgid "Currency Switcher"
+msgstr ""
+
+#: includes/class-alg-exchange-rates-crons.php:26
+msgid "Update Every Minute"
+msgstr ""
+
+#: includes/class-alg-exchange-rates-crons.php:27
+msgid "Update Hourly"
+msgstr ""
+
+#: includes/class-alg-exchange-rates-crons.php:28
+msgid "Update Twice Daily"
+msgstr ""
+
+#: includes/class-alg-exchange-rates-crons.php:29
+msgid "Update Daily"
+msgstr ""
+
+#: includes/class-alg-exchange-rates-crons.php:30
+msgid "Update Weekly"
+msgstr ""
+
+#: includes/class-alg-exchange-rates-crons.php:115
+msgid "Once Weekly"
+msgstr ""
+
+#: includes/class-alg-exchange-rates-crons.php:119
+msgid "Once a Minute"
+msgstr ""
+
+#: includes/class-alg-widget-currency-switcher.php:27
+msgid "WooCommerce Currency Switcher Widget"
+msgstr ""
+
+#: includes/class-alg-widget-currency-switcher.php:31
+msgid "WooCommerce Currency Switcher"
+msgstr ""
+
+#: includes/class-alg-widget-currency-switcher.php:62
+msgid "Currency Switcher not enabled!"
+msgstr ""
+
+#: includes/class-alg-widget-currency-switcher.php:79
+msgid "Title:"
+msgstr ""
+
+#: includes/class-alg-widget-currency-switcher.php:83
+msgid "Type:"
+msgstr ""
+
+#: includes/class-alg-widget-currency-switcher.php:85
+msgid "Drop down"
+msgstr ""
+
+#: includes/class-alg-widget-currency-switcher.php:86
+msgid "Radio list"
+msgstr ""
+
+#: includes/class-alg-widget-currency-switcher.php:87
+msgid "Link list"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://coder.fm/item/currency-switcher-woocommerce-plugin/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Currency Switcher for WooCommerce."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Tom Anbinder"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.algoritmika.com"
+msgstr ""

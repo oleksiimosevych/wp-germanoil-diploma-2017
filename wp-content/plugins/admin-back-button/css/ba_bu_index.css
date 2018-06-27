@@ -1,0 +1,32 @@
+input#ba_bu_back
+{
+background-color:#ED1212;
+background:#ED1212;
+border-color:#E01212 !important;
+box-shadow: none !important;
+text-shadow:none !important;
+}
+
+input#ba_bu_back:hover
+{
+background-color:#E01212;
+background:#E01212;
+}
+
+
+.ba_bu_tag
+{
+margin-left:20px !important;
+}
+
+#ba_bu_action
+{
+margin-top:10px;
+float:right;
+width:100%;
+}
+
+.ba_bu_post
+{
+float:right;
+}

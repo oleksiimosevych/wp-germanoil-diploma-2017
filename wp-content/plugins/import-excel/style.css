@@ -1,0 +1,33 @@
+#price_excel_input_name, #price_excel_name_new, #price_excel_name_list{
+	display: none;
+}
+
+#price_excel_table{
+	border-spacing: 0;
+	margin: 0;
+	padding: 0;
+	border-top: 1px solid #999;
+	border-left: 1px solid #999;
+}
+
+#price_excel_table td{
+	border-bottom: 1px solid #999;
+	border-right: 1px solid #999;
+	padding: 3px 5px;
+}
+
+p.price_excel_valid {
+    font-family: monospace;
+    color: #0e6b0e;
+    margin: 0;
+    padding: 3px 7px;
+    background: white;
+}
+
+p.price_excel_novalid {
+    font-family: monospace;
+    color: #dc1717;
+    margin: 0;
+    padding: 3px 7px;
+    background: white;
+}

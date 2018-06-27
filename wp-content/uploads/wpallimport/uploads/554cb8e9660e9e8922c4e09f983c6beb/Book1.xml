@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<title><![CDATA[maslo1]]></title>
+		<about><![CDATA[maslo 1 is very good maslo]]></about>
+		<miniabout><![CDATA[maslo I vse]]></miniabout>
+		<sku><![CDATA[456734]]></sku>
+		<price><![CDATA[455]]></price>
+	</node>
+	<node>
+		<title><![CDATA[maslo2]]></title>
+		<about><![CDATA[blabla bla]]></about>
+		<miniabout><![CDATA[bla]]></miniabout>
+		<sku><![CDATA[66457887]]></sku>
+		<price><![CDATA[344]]></price>
+	</node>
+</data>

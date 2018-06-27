@@ -1,0 +1,314 @@
+﻿
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+  <offers>
+   <offer available="true" id="312088831">
+    <url>312088831-maslo-transmsjne-vag</url>
+    <price>25.85</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>5335622</categoryId>
+    <picture>http://images.ua.prom.st/448657196_w640_h640_g_055_005.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Масло трансмісійне VAG ATF Tiptronic 1л (G055005A2)</name>
+    <vendor>Volkswagen</vendor>
+    <vendorCode>G055005A2</vendorCode>
+    <country_of_origin>Німеччина</country_of_origin>
+    <description>Оригінальне трансмісійне масло VAG ATF Tiptronic G 055 005 A2 призначене для 6-ступеневих автоматичних коробок перетакч Tiptronic автомобілів Volkswagen та Audi. Колір жовтий.
+
+Якщо у Вас виникли якісь труднощі при виборі масла, не соромтеся затаквати питання нашим менеджерам по телефону. Ми можемо здійснити доставку товару з нашого інтернет-магазину GermanOil в будь-яку точку України зручною для Вас транспортною компанією.
+</description>
+    <param2 name="Вид масла">Синтетичне</param2>
+    <param4 name="Об'єм рідини" unit="л">1.0</param4>
+  </offer>
+   <offer available="true" id="223993470">
+    <url>223993470-maslo-transmsjne-vag</url>
+    <price>23.3</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>5335622</categoryId>
+    <picture>http://images.ua.prom.st/407010476_w640_h640_vag_gear_oil_1l_g052145s2.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Масло трансмісійне VAG Gear Oil 1л (G052145S2)</name>
+    <vendor>Volkswagen</vendor>
+    <vendorCode>G052145S2</vendorCode>
+    <country_of_origin>Німеччина</country_of_origin>
+    <description>Масло трансмісійне VW G 052 145 ― оригінальне спеціальне масло найвищої якості для диференціалів переднього і заднього мостів та розтаквальної коробки автомобілів VW, AUDI, SEAT, Skoda.
+
+Якщо у Вас виникли якісь труднощі при виборі масла, не соромтеся затаквати питання нашим менеджерам по телефону. Ми можемо здійснити доставку товару з нашого інтернет магазину GermanOil в будь-яку точку України зручною для Вас транспортною компанією.
+</description>
+    <param2 name="Вид масла">Синтетичне</param2>
+    <param4 name="Об'єм рідини" unit="л">1.0</param4>
+    <param8 name="Специфікація:"> API GL-5</param8>
+  </offer>
+  <offer available="true" id="312084533">
+    <url>312084533-maslo-transmsjne-vag</url>
+    <price>20.87</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>5335622</categoryId>
+    <picture>http://images.ua.prom.st/448630086_w640_h640_g052171a2.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Масло трансмісійне VAG Gear Oil 1л (G052171A2)</name>
+    <vendor>Volkswagen</vendor>
+    <vendorCode>G052171A2</vendorCode>
+    <country_of_origin>Німеччина</country_of_origin>
+    <description>Трансмісійне масло VW G 052 171 A2 призначене для 6-ступінчастих механічних коробок перетакч автомобілів VW / AUDI / SEAT / Skoda.
+
+Якщо у Вас виникли якісь труднощі при виборі масла, не соромтеся затаквати питання нашим менеджерам по телефону. Ми можемо здійснити доставку товару з нашого інтернет магазину GermanOil в будь-яку точку України зручною для Вас транспортною компанією.
+</description>
+    <param2 name="Вид масла">Синтетичне</param2>
+    <param4 name="Об'єм рідини" unit="л">1.0</param4>
+  </offer>
+    <offer available="true" id="224079213">
+    <url>224079213-maslo-transmsjne-mercedes</url>
+    <price>18.75</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>5335622</categoryId>
+    <picture>http://images.ua.prom.st/407029699_w640_h640_mercedes_benz___1989330312.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Масло трансмісійне Mercedes-Benz Gear Oil 75w-85 235.7, 235.74 1л (A001989330312)</name>
+    <vendor>Mercedes-Benz</vendor>
+    <vendorCode>001989330312</vendorCode>
+    <country_of_origin>Німеччина</country_of_origin>
+    <description>Трансмісійне масло Mercedes-Benz 235.7, 235.74  A 001 989 33 03 12 призначене для гіпоїдних перетакч редукторів мостів автомобілів Mercedes-Benz.
+
+Якщо у Вас виникли якісь труднощі при виборі масла, не соромтеся затаквати питання нашим менеджерам по телефону. Ми можемо здійснити доставку товару з нашого інтернет-магазину GermanOil в будь-яку точку України зручною для Вас транспортною компанією.
+</description>
+    <param2 name="Вид масла">Синтетичне</param2>
+    <param4 name="Об'єм рідини" unit="л">1.0</param4>
+    <param5 name="В'язкість по SAE">75W-85</param5>
+    <param9 name="Допуск:">MB 235.7, 235.74 </param9>
+  </offer>
+  <offer available="true" id="224035676">
+    <url>224035676-maslo-transmsjne-vag</url>
+    <price>17.66</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>5335622</categoryId>
+    <picture>http://images.ua.prom.st/407021866_w640_h640_vag_atf_dsg_s____g052529a2.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Масло трансмісійне VAG ATF DSG/S-Tronic 1л (G052529A2)</name>
+    <vendor>Volkswagen</vendor>
+    <vendorCode>G052529A2</vendorCode>
+    <country_of_origin>Німеччина</country_of_origin>
+    <description>Масло трансмісійне VW G 052 529 ― оригінальне спеціальне трансмісійне масло найвищої якості для автомобілів VW, AUDI, SEAT, Skoda. Призначено для роботизованих коробок з двома зчепленнями DSG та S-Tronic.
+
+Якщо у Вас виникли якісь труднощі при виборі масла, не соромтеся затаквати питання нашим менеджерам по телефону. Ми можемо здійснити доставку товару з нашого інтернет-магазину GermanOil в будь-яку точку України зручною для Вас транспортною компанією.
+</description>
+    <param2 name="Вид масла">Синтетичне</param2>
+    <param4 name="Об'єм рідини" unit="л">1.0</param4>
+    <param8 name="Специфікація:"> API GL-5</param8>
+  </offer>
+    <offer available="true" id="312077719">
+    <url>312077719-maslo-transmsjne-vag</url>
+    <price>17.49</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>5335622</categoryId>
+    <picture>http://images.ua.prom.st/448623588_w640_h640_g052180a2.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Масло трансмісійне VAG ATF Multitronic1л (G052180A2)</name>
+    <vendor>Volkswagen</vendor>
+    <vendorCode>G052180A2</vendorCode>
+    <country_of_origin>Німеччина</country_of_origin>
+    <description>Трансмісійне масло для VW G 052 180 A2 призначене для використання в автоматичних коробках-варіаторах Multitronic автомобілів Audi (забезпечують безступінчасту зміну перетаквального відношення).
+
+Властивості:
+
+• володіє відмінним захистом від зносу, корозії, окислення вузлів АКПП, а також відмінною термічною стабільністю.
+
+• високий індекс в'язкості забезпечує надійне змащування вузлів АКПП як при високій температурі так і надійний захист в холодну погоду.
+
+
+
+Періодичність заміни: 60-90 тис км.
+
+Якщо у Вас виникли якісь труднощі при виборі масла, не соромтеся затаквати питання нашим менеджерам по телефону. Ми можемо здійснити доставку товару з нашого інтернет-магазину GermanOil в будь-яку точку України зручною для Вас транспортною компанією.
+</description>
+    <param2 name="Вид масла">Синтетичне</param2>
+    <param4 name="Об'єм рідини" unit="л">1.0</param4>
+    <param6 name="Застос. по типу">Легкові авто</param6>
+    <param7 name="Енергозб. масло">так</param7>
+  </offer>
+   <offer available="true" id="224007896">
+    <url>224007896-maslo-transmsjne-vag</url>
+    <price>15.92</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>5335622</categoryId>
+    <picture>http://images.ua.prom.st/407012548_w640_h640_vag_atf_dsg_1lg052182a2.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Масло трансмісійне VAG ATF DSG 1л (G052182A2)</name>
+    <vendor>Volkswagen</vendor>
+    <vendorCode>G052182A2</vendorCode>
+    <country_of_origin>Німеччина</country_of_origin>
+    <description>Трансмісійне масло VW G 052 182 призначене для використання в роботизованих коробках перетакч DSG з подвійним зчепленням.
+
+Якщо у Вас виникли якісь труднощі при виборі масла, не соромтеся затаквати питання нашим менеджерам по телефону. Ми можемо здійснити доставку товару з нашого інтернет-магазину GermanOil в будь-яку точку України зручною для Вас транспортною компанією.
+</description>
+    <param2 name="Вид масла">Синтетичне</param2>
+    <param4 name="Об'єм рідини" unit="л">1.0</param4>
+  </offer>
+    <offer available="true" id="223998436">
+    <url>223998436-maslo-transmsjne-vag</url>
+    <price>15.04</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>5335622</categoryId>
+    <picture>http://images.ua.prom.st/407011785_w640_h640_vag_atf_tiptro___g052162a2.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Масло трансмісійне VAG ATF Tiptronic1л (G052162A2)</name>
+    <vendor>Volkswagen</vendor>
+    <vendorCode>G052162A2</vendorCode>
+    <country_of_origin>Німеччина</country_of_origin>
+    <description>Трансмісійне масло VW G 052 162 призначено для автоматичних коробок перетакч Tiptronic автомобілів VW, AUDI, SEAT, Skoda. Трансмісійне масло VW G 052162:
+
+• забезпечує захист вузлів АКПП від зносу, корозії, окислення;
+
+• високий індекс в'язкості та термічна стабільність забезпечують надійне змащування вузлів АКПП як при високій температурі та надійний захист в холодну погоду.
+
+Якщо у Вас виникли якісь труднощі при виборі масла, не соромтеся затаквати питання нашим менеджерам по телефону. Ми можемо здійснити доставку товару з нашого інтернет-магазину GermanOil в будь-яку точку України зручною для Вас транспортною компанією.
+</description>
+    <param2 name="Вид масла">Синтетичне</param2>
+    <param4 name="Об'єм рідини" unit="л">1.0</param4>
+  </offer>
+    <offer available="true" id="298352821">
+    <url>298352821-maslo-transmsjne-mercedes</url>
+    <price>12.1</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>5335622</categoryId>
+    <picture>http://images.ua.prom.st/429822317_w640_h640_mb_a0019897803___1000x1000.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Масло трансмісійне Mercedes-Benz ATF 134 (236.15) 1л (A001989780309)</name>
+    <vendor>Mercedes-Benz</vendor>
+    <vendorCode>001989780309</vendorCode>
+    <country_of_origin>Німеччина</country_of_origin>
+    <description>Трансмісійне масло Mercedes-Benz ATF 134 (236.15) A 001 989 78 03 09 призначене для 7 ступеневих автоматичних коробок перетакч автомобілів Mercedes-Benz, випущених з 21.06.2010 року.
+
+Якщо у Вас виникли якісь труднощі при виборі масла, не соромтеся затаквати питання нашим менеджерам по телефону. Ми можемо здійснити доставку товару з нашого інтернет магазину GermanOil в будь-яку точку України зручною для Вас транспортною компанією.
+</description>
+    <param2 name="Вид масла">Синтетичне</param2>
+    <param4 name="Об'єм рідини" unit="л">1.0</param4>
+    <param9 name="Допуск:">MB 236.15</param9>
+    <param6 name="Застос. по типу">Легкові авто</param6>
+  </offer>
+    <offer available="true" id="224095784">
+    <url>224095784-maslo-transmsjne-mercedes</url>
+    <price>12.1</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>5335622</categoryId>
+    <picture>http://images.ua.prom.st/407837195_w640_h640_mercedes_benz___1989850309.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Масло трансмісійне Mercedes-Benz ATF 236.21 1л (A001989850309)</name>
+    <vendor>Mercedes-Benz</vendor>
+    <vendorCode>001989850309</vendorCode>
+    <country_of_origin>Німеччина</country_of_origin>
+    <description>Трансмісійне масло Mercedes-Benz 236.10 A 001 989 21 03 призначене для автоматичних коробок перетакч автомобілів Mercedes-Benz. Забезпечує максимальну ефективність елементів трансмісії під час експлуатації.Унікальний склад трансмісійної рідини, легований комплексним пакетом антикорозійних і протизносних присадок, забезпечує мінімальні енерговитрати на тертя, оптимальний температурний режим і захищає механізми трансмісії від передчасного зносу і утворення відкладень.
+
+Якщо у Вас виникли якісь труднощі при виборі масла, не соромтеся затаквати питання нашим менеджерам по телефону. Ми можемо здійснити доставку товару з нашого інтернет-магазину в будь-яку точку України зручною для Вас транспортною компанією.
+</description>
+    <param2 name="Вид масла">Синтетичне</param2>
+    <param4 name="Об'єм рідини" unit="л">1.0</param4>
+    <param9 name="Допуск:">MB 236.21</param9>
+  </offer>
+  <offer available="true" id="224013936">
+    <url>224013936-maslo-transmsjne-vag</url>
+    <price>11.6</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>5335622</categoryId>
+    <picture>http://images.ua.prom.st/407019505_w640_h640_vag_gear_oil_1l_g052512a2.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Масло трансмісійне VAG Gear Oil 1л (G052512A2)</name>
+    <vendor>Volkswagen</vendor>
+    <vendorCode>G052512A2</vendorCode>
+    <country_of_origin>Німеччина</country_of_origin>
+    <description>Трансмісійне масло VW G 052 512 призначене для механічних коробок перетакч, редукторів, мостів і головних перетакч деяких моделей автомобілів VW, AUDI, SEAT, Skoda.
+
+Якщо у Вас виникли якісь труднощі при виборі масла, не соромтеся затаквати питання нашим менеджерам по телефону. Ми можемо здійснити доставку товару з нашого інтернет-магазину GermanOil в будь-яку точку України зручною для Вас транспортною компанією.
+</description>
+    <param2 name="Вид масла">Синтетичне</param2>
+    <param4 name="Об'єм рідини" unit="л">1.0</param4>
+  </offer>
+    <offer available="true" id="298390763">
+    <url>298390763-maslo-transmsjne-mercedes</url>
+    <price>8.55</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>5335622</categoryId>
+    <picture>http://images.ua.prom.st/429860897_w640_h640_mb_a0009892803___1000x1000.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Масло трансмісійне Mercedes-Benz Gear Oil 75w-90 (235.0) A000989280312 1л</name>
+    <vendor>Mercedes-Benz</vendor>
+    <vendorCode>000989280312</vendorCode>
+    <country_of_origin>Німеччина</country_of_origin>
+    <description>Трансмісійне масло Mercedes-Benz Hypoid Gear Oil 75w-90 235.0 A 000 989 28 03 12 призначено для редукторів та розтаквальних коробок автомобілів Mercedes-Benz.
+
+Якщо у Вас виникли якісь труднощі при виборі масла, не соромтеся затаквати питання нашим менеджерам по телефону. Ми можемо здійснити доставку товару з нашого інтернет-магазину GermanOil в будь-яку точку України зручною для Вас транспортною компанією.
+</description>
+    <param2 name="Вид масла">Синтетичне</param2>
+    <param4 name="Об'єм рідини" unit="л">1.0</param4>
+    <param5 name="В'язкість по SAE">75W-90</param5>
+    <param9 name="Допуск:">MB 235.0</param9>
+  </offer>
+  <offer available="false" id="73707624">
+    <url>73707624-maslo-transmsjne-mercedes</url>
+    <price>8.47</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>5335622</categoryId>
+    <picture>http://images.ua.prom.st/407006013_w640_h640_mercedes_benz___1989680310.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Масло трансмісійне Mercedes-Benz ATF 236.14 1л (A001989680310)</name>
+    <vendor>Mercedes-Benz</vendor>
+    <vendorCode>001989680310</vendorCode>
+    <country_of_origin>Німеччина</country_of_origin>
+    <description>Трансмісійне масло Mercedes-Benz 236.14 A 001 989 68 03 призначене для автоматичних коробок перетакч автомобілів Mercedes-Benz.
+
+Якщо у Вас виникли якісь труднощі при виборі масла, не соромтеся затаквати питання нашим менеджерам по телефону. Ми можемо здійснити доставку товару з нашого інтернет магазину GermanOil в будь-яку точку України зручною для Вас транспортною компанією.
+</description>
+    <param2 name="Вид масла">Синтетичне</param2>
+    <param4 name="Об'єм рідини" unit="л">1.0</param4>
+    <param9 name="Допуск:">MB 236.14</param9>
+  </offer>
+    <offer available="true" id="224043229">
+    <url>224043229-maslo-transmsjne-vag</url>
+    <price>8.05</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>5335622</categoryId>
+    <picture>http://images.ua.prom.st/407024763_w640_h640_vag_gear_oil_1l_g060726a2.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Масло трансмісійне VAG Gear Oil 1л (G060726A2)</name>
+    <vendor>Volkswagen</vendor>
+    <vendorCode>G060726A2</vendorCode>
+    <country_of_origin>Німеччина</country_of_origin>
+    <description>VW G 060 726 ― оригінальне трансмісійне масло для механічних коробок перемикання перетакч автомобілів VW, AUDI, SEAT, Skoda.
+
+Якщо у Вас виникли якісь труднощі при виборі масла, не соромтеся затаквати питання нашим менеджерам по телефону. Ми можемо здійснити доставку товару з нашого інтернет-магазину GermanOil в будь-яку точку України зручною для Вас транспортною компанією.
+</description>
+    <param2 name="Вид масла">Синтетичне</param2>
+    <param4 name="Об'єм рідини" unit="л">1.0</param4>
+  </offer>
+
+  </offers>

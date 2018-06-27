@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<sku><![CDATA[20488]]></sku>
+		<productname><![CDATA[Масло моторне BlueTronic 10W-40 1L]]></productname>
+		<stock><![CDATA[0]]></stock>
+		<undefined3><![CDATA[3.93]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[10487]]></sku>
+		<productname><![CDATA[Масло моторне BlueTronic 10W-40 20L]]></productname>
+		<stock><![CDATA[0]]></stock>
+		<undefined3><![CDATA[58.32]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[20484]]></sku>
+		<productname><![CDATA[Масло моторне BlueTronic 10W-40 4L]]></productname>
+		<stock><![CDATA[0]]></stock>
+		<undefined3><![CDATA[15.12]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[10481]]></sku>
+		<productname><![CDATA[Масло моторне BlueTronic 10W-40 60L]]></productname>
+		<stock><![CDATA[9]]></stock>
+		<undefined3><![CDATA[162.33]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[20637]]></sku>
+		<productname><![CDATA[Масло моторне HighTronic 5W-40 1L]]></productname>
+		<stock><![CDATA[536]]></stock>
+		<undefined3><![CDATA[4.69]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[20633]]></sku>
+		<productname><![CDATA[Масло моторне HighTronic 5W-40 20L]]></productname>
+		<stock><![CDATA[5]]></stock>
+		<undefined3><![CDATA[69.98]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[20634]]></sku>
+		<productname><![CDATA[Масло моторне HighTronic 5W-40 4L]]></productname>
+		<stock><![CDATA[33]]></stock>
+		<undefined3><![CDATA[18.04]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[20631]]></sku>
+		<productname><![CDATA[Масло моторне HighTronic 5W-40 60L]]></productname>
+		<stock><![CDATA[13]]></stock>
+		<undefined3><![CDATA[196.73]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[21401]]></sku>
+		<productname><![CDATA[Масло моторне HighTronic M 5W-40 60L]]></productname>
+		<stock><![CDATA[2]]></stock>
+		<undefined3><![CDATA[205.93]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[20458]]></sku>
+		<productname><![CDATA[Масло моторне SuperTronic 0W-40 1L]]></productname>
+		<stock><![CDATA[65]]></stock>
+		<undefined3><![CDATA[6.37]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[20459]]></sku>
+		<productname><![CDATA[Масло моторне SuperTronic 0W-40 4L]]></productname>
+		<stock><![CDATA[17]]></stock>
+		<undefined3><![CDATA[23.44]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[10382]]></sku>
+		<productname><![CDATA[Масло моторне SuperTronic G 0W-30 1L]]></productname>
+		<stock><![CDATA[41]]></stock>
+		<undefined3><![CDATA[6.08]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[10383]]></sku>
+		<productname><![CDATA[Масло моторне SuperTronic G 0W-30 4L]]></productname>
+		<stock><![CDATA[9]]></stock>
+		<undefined3><![CDATA[24.75]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[10472]]></sku>
+		<productname><![CDATA[Масло моторне SuperTronic LongLife III 5W-30 20L]]></productname>
+		<stock><![CDATA[1]]></stock>
+		<undefined3><![CDATA[80.3]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[20479]]></sku>
+		<productname><![CDATA[Масло моторне SuperTronic LongLife III 5W-30 4L]]></productname>
+		<stock><![CDATA[3]]></stock>
+		<undefined3><![CDATA[20.74]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[22004]]></sku>
+		<productname><![CDATA[Масло моторне Turboral 10W-40 5L]]></productname>
+		<stock><![CDATA[18]]></stock>
+		<undefined3><![CDATA[18.06]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[22001]]></sku>
+		<productname><![CDATA[Масло моторне Turboral 10W-40 60L]]></productname>
+		<stock><![CDATA[6]]></stock>
+		<undefined3><![CDATA[173.8]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[83192211191]]></sku>
+		<productname><![CDATA[Антифриз конц. (зелений) 1,5L]]></productname>
+		<stock><![CDATA[123]]></stock>
+		<undefined3><![CDATA[6.7]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[83212365929]]></sku>
+		<productname><![CDATA[Масло моторне 0W-30 BMW TwinPower Turbo LL-04 1L]]></productname>
+		<stock><![CDATA[108]]></stock>
+		<undefined3><![CDATA[8.57]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[83212365935]]></sku>
+		<productname><![CDATA[Масло моторне 0W-30 BMW TwinPower Turbo LL-12 1L]]></productname>
+		<stock><![CDATA[897]]></stock>
+		<undefined3><![CDATA[9.69]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[83212365925]]></sku>
+		<productname><![CDATA[Масло моторне 0W-40 BMW M TwinPower Turbo LL-01 1L]]></productname>
+		<stock><![CDATA[93]]></stock>
+		<undefined3><![CDATA[10.52]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[83290429576]]></sku>
+		<productname><![CDATA[Рідина ГПК Pentosin CHF 11S 1L]]></productname>
+		<stock><![CDATA[440]]></stock>
+		<undefined3><![CDATA[8.68]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[14E9CF]]></sku>
+		<productname><![CDATA[Масло моторне 5W-40 Formula S/SD 1L (WSS-M2C917-A)]]></productname>
+		<stock><![CDATA[30]]></stock>
+		<undefined3><![CDATA[4.51]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[P999-G13-020]]></sku>
+		<productname><![CDATA[Антифриз фіолетовий (конц.) G13 20L]]></productname>
+		<stock><![CDATA[1]]></stock>
+		<undefined3><![CDATA[72.71]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[P999-G12-020]]></sku>
+		<productname><![CDATA[Антифриз червоний (конц.) G12 20L]]></productname>
+		<stock><![CDATA[1]]></stock>
+		<undefined3><![CDATA[55.36]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[183665]]></sku>
+		<productname><![CDATA[Масло моторне Mazda Original Oil Ultra 5W-30 1L]]></productname>
+		<stock><![CDATA[82]]></stock>
+		<undefined3><![CDATA[5.02]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[183666]]></sku>
+		<productname><![CDATA[Масло моторне Mazda Original Oil Ultra 5W-30 5L]]></productname>
+		<stock><![CDATA[49]]></stock>
+		<undefined3><![CDATA[23.71]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[000989082510]]></sku>
+		<productname><![CDATA[Антифриз (325.0) 1.5L]]></productname>
+		<stock><![CDATA[91]]></stock>
+		<undefined3><![CDATA[6.43]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[000989080713]]></sku>
+		<productname><![CDATA[Гальмівна рідина (331.0) 1L]]></productname>
+		<stock><![CDATA[4]]></stock>
+		<undefined3><![CDATA[7.74]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[000989830110]]></sku>
+		<productname><![CDATA[Масло моторне 5W-30 (229.5) 1L]]></productname>
+		<stock><![CDATA[190]]></stock>
+		<undefined3><![CDATA[6.66]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[001989370110]]></sku>
+		<productname><![CDATA[Масло моторне 5W-30 (229.52) 1L]]></productname>
+		<stock><![CDATA[17]]></stock>
+		<undefined3><![CDATA[6.97]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[000989820110]]></sku>
+		<productname><![CDATA[Масло моторне 5W-40 (229.3) 1L]]></productname>
+		<stock><![CDATA[162]]></stock>
+		<undefined3><![CDATA[6.34]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[0009898201]]></sku>
+		<productname><![CDATA[Масло моторне 5W-40 (229.3) 5L]]></productname>
+		<stock><![CDATA[40]]></stock>
+		<undefined3><![CDATA[29.26]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[000989280312]]></sku>
+		<productname><![CDATA[Масло трансм. (235.0) 1L]]></productname>
+		<stock><![CDATA[858]]></stock>
+		<undefined3><![CDATA[7.78]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[001989330312]]></sku>
+		<productname><![CDATA[Масло трансм. (235.7, 235.74) 1L (заміна для A 001 989 17 03 10)]]></productname>
+		<stock><![CDATA[53]]></stock>
+		<undefined3><![CDATA[17.44]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[001989210310]]></sku>
+		<productname><![CDATA[Масло трансм. (236.10) 1L (для 5-ст&АКП)]]></productname>
+		<stock><![CDATA[58]]></stock>
+		<undefined3><![CDATA[6.73]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[001989850309]]></sku>
+		<productname><![CDATA[Масло трансм. (236.21) ATF 1L]]></productname>
+		<stock><![CDATA[47]]></stock>
+		<undefined3><![CDATA[11.2]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[001989780309]]></sku>
+		<productname><![CDATA[Масло трансм. ATF 134 (236.15) 1L]]></productname>
+		<stock><![CDATA[201]]></stock>
+		<undefined3><![CDATA[11.2]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[000989880310]]></sku>
+		<productname><![CDATA[Рідина ГПК (236.3) 1L]]></productname>
+		<stock><![CDATA[1205]]></stock>
+		<undefined3><![CDATA[7.25]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[001989240310]]></sku>
+		<productname><![CDATA[Рідина ГПК (345.0) 1L]]></productname>
+		<stock><![CDATA[357]]></stock>
+		<undefined3><![CDATA[10.23]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[KE900-90032]]></sku>
+		<productname><![CDATA[Масло моторне 5W-40 SL/CF 1L]]></productname>
+		<stock><![CDATA[60]]></stock>
+		<undefined3><![CDATA[4.62]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[KE900-90042]]></sku>
+		<productname><![CDATA[Масло моторне 5W-40 SL/CF 5L]]></productname>
+		<stock><![CDATA[127]]></stock>
+		<undefined3><![CDATA[20.9]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[1942043]]></sku>
+		<productname><![CDATA[Масло моторне 10W-40 Semy Synthetic 1L]]></productname>
+		<stock><![CDATA[8]]></stock>
+		<undefined3><![CDATA[3.18]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[1942046]]></sku>
+		<productname><![CDATA[Масло моторне 10W-40 Semy Synthetic 5L]]></productname>
+		<stock><![CDATA[7]]></stock>
+		<undefined3><![CDATA[12.61]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[1942000]]></sku>
+		<productname><![CDATA[Масло моторне 5W-30 Dexos 2 Longlife 1L (GM-LL-A-025, GM-LL-B-025)]]></productname>
+		<stock><![CDATA[8]]></stock>
+		<undefined3><![CDATA[4.04]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[1942003]]></sku>
+		<productname><![CDATA[Масло моторне 5W-30 Dexos 2 Longlife 5L (GM-LL-A-025, GM-LL-B-025)]]></productname>
+		<stock><![CDATA[5]]></stock>
+		<undefined3><![CDATA[16.8]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[00004320528]]></sku>
+		<productname><![CDATA[Масло трансм. ATF JWS 3309 1L]]></productname>
+		<stock><![CDATA[2]]></stock>
+		<undefined3><![CDATA[0]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[167637]]></sku>
+		<productname><![CDATA[Масло моторне QUARTZ 7000 ENERGY 10W-40 1L]]></productname>
+		<stock><![CDATA[389]]></stock>
+		<undefined3><![CDATA[3.45]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[166245]]></sku>
+		<productname><![CDATA[Масло моторне QUARTZ 9000 ENERGY 5W-40 1L]]></productname>
+		<stock><![CDATA[316]]></stock>
+		<undefined3><![CDATA[3.8]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[156812]]></sku>
+		<productname><![CDATA[Масло моторне QUARTZ 9000 ENERGY 5W-40 5L]]></productname>
+		<stock><![CDATA[114]]></stock>
+		<undefined3><![CDATA[16.89]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[148646]]></sku>
+		<productname><![CDATA[Масло моторне QUARTZ DIESEL 7000 10W-40 5L]]></productname>
+		<stock><![CDATA[48]]></stock>
+		<undefined3><![CDATA[15.44]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[166252]]></sku>
+		<productname><![CDATA[Масло моторне QUARTZ INEO ECS 5W-30 1L]]></productname>
+		<stock><![CDATA[153]]></stock>
+		<undefined3><![CDATA[4.65]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[151261]]></sku>
+		<productname><![CDATA[Масло моторне QUARTZ INEO ECS 5W-30 5L]]></productname>
+		<stock><![CDATA[33]]></stock>
+		<undefined3><![CDATA[21.78]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[181711]]></sku>
+		<productname><![CDATA[Масло моторне QUARTZ INEO L LIFE 5W-30 1L]]></productname>
+		<stock><![CDATA[293]]></stock>
+		<undefined3><![CDATA[5.35]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[181712]]></sku>
+		<productname><![CDATA[Масло моторне QUARTZ INEO L LIFE 5W-30 5L]]></productname>
+		<stock><![CDATA[19]]></stock>
+		<undefined3><![CDATA[24.42]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[151264]]></sku>
+		<productname><![CDATA[Масло моторне QUARTZ INEO MC3 5W-30 1L]]></productname>
+		<stock><![CDATA[22]]></stock>
+		<undefined3><![CDATA[4.66]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[157103]]></sku>
+		<productname><![CDATA[Масло моторне QUARTZ INEO MC3 5W-30 5L]]></productname>
+		<stock><![CDATA[34]]></stock>
+		<undefined3><![CDATA[21.51]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[08880-80846]]></sku>
+		<productname><![CDATA[Масло моторне Toyota 5W-30 1L]]></productname>
+		<stock><![CDATA[16]]></stock>
+		<undefined3><![CDATA[5.56]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[08880-80845]]></sku>
+		<productname><![CDATA[Масло моторне Toyota 5W-30 5L]]></productname>
+		<stock><![CDATA[136]]></stock>
+		<undefined3><![CDATA[23.44]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[08880-80836]]></sku>
+		<productname><![CDATA[Масло моторне Toyota 5W-40 1L]]></productname>
+		<stock><![CDATA[171]]></stock>
+		<undefined3><![CDATA[7.21]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[08880-80835]]></sku>
+		<productname><![CDATA[Масло моторне Toyota 5W-40 5L]]></productname>
+		<stock><![CDATA[189]]></stock>
+		<undefined3><![CDATA[32.45]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[B000750M3]]></sku>
+		<productname><![CDATA[Гальм. рідина DOT-4 1L]]></productname>
+		<stock><![CDATA[1]]></stock>
+		<undefined3><![CDATA[7.39]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[G052183M2]]></sku>
+		<productname><![CDATA[Масло моторне 0W-30 LongLife II 1L (503.00, 506.00, 506.01)]]></productname>
+		<stock><![CDATA[28]]></stock>
+		<undefined3><![CDATA[11.91]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[G052183M4]]></sku>
+		<productname><![CDATA[Масло моторне 0W-30 LongLife II 5L (503.00, 506.00, 506.01)]]></productname>
+		<stock><![CDATA[56]]></stock>
+		<undefined3><![CDATA[53.78]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[G052195M2]]></sku>
+		<productname><![CDATA[Масло моторне 5W-30 LongLife III 1L (504.00, 507.00)]]></productname>
+		<stock><![CDATA[49]]></stock>
+		<undefined3><![CDATA[10.2]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[G052195M4]]></sku>
+		<productname><![CDATA[Масло моторне 5W-30 LongLife III 5L (504.00, 507.00)]]></productname>
+		<stock><![CDATA[282]]></stock>
+		<undefined3><![CDATA[48.77]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[G052167M2]]></sku>
+		<productname><![CDATA[Масло моторне 5W-40 Special Plus 1L (502.00, 505.00, 505.01)]]></productname>
+		<stock><![CDATA[142]]></stock>
+		<undefined3><![CDATA[9.88]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[G052516A2]]></sku>
+		<productname><![CDATA[Масло трансм.  ATF 1L]]></productname>
+		<stock><![CDATA[8]]></stock>
+		<undefined3><![CDATA[16.67]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[G052512A2]]></sku>
+		<productname><![CDATA[Масло трансм. 1L]]></productname>
+		<stock><![CDATA[117]]></stock>
+		<undefined3><![CDATA[10.95]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[G052171A2]]></sku>
+		<productname><![CDATA[Масло трансм. 1L]]></productname>
+		<stock><![CDATA[6]]></stock>
+		<undefined3><![CDATA[19.69]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[G052529A2]]></sku>
+		<productname><![CDATA[Масло трансм. 1L]]></productname>
+		<stock><![CDATA[27]]></stock>
+		<undefined3><![CDATA[16.67]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[G060162A2]]></sku>
+		<productname><![CDATA[Масло трансм. ATF 1L]]></productname>
+		<stock><![CDATA[4]]></stock>
+		<undefined3><![CDATA[36.19]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[G052180A2]]></sku>
+		<productname><![CDATA[Масло трансм. ATF Multitronic 1L]]></productname>
+		<stock><![CDATA[33]]></stock>
+		<undefined3><![CDATA[16.67]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[G060726A2]]></sku>
+		<productname><![CDATA[Масло трансм. GL-4 1L]]></productname>
+		<stock><![CDATA[36]]></stock>
+		<undefined3><![CDATA[7.59]]></undefined3>
+	</node>
+	<node>
+		<sku><![CDATA[G052145S2]]></sku>
+		<productname><![CDATA[Масло трансм. GL-5 1L]]></productname>
+		<stock><![CDATA[21]]></stock>
+		<undefined3><![CDATA[21.99]]></undefined3>
+	</node>
+</data>

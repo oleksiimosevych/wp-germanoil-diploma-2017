@@ -1,0 +1,629 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+  <offers>
+    <offer available="true" id="244350969">
+    <url>244350969-schtka-karkasna-velgio</url>
+    <price>97</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/354465671_w640_h640_velgio_elite_e__72_1007988.jpg</picture>
+    <picture>http://images.ua.prom.st/354465666_w640_h640_velgio_elite_e__70_1007982.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка каркасна Velgio Elite 650 мм</name>
+    <vendor>Velgio</vendor>
+    <country_of_origin>Італія</country_of_origin>
+    <description>Каркасні щітки для склоочисників Velgio серії Elite ідеально повторюють геометрію лобового скла і ефективно витакляють бруд, пил, дощову воду і сніг. Двірники Velgio Elite підходять для більшості марок автомобілів. В комплекті універсальні перехідники для різних типів кріплень. Чистяча кромка, зроблена з каучуку, покрита шаром графіту і політетрафторетилену (PTFE),  що забезпечує безшумність та довговічність роботи. Кромка каркасних двірників Velgio Elite рівномірно притискається до скла восьмиопорним металевим каркасом. Каркасні щітки склоочисника Velgio Elite забезпечують хорошу видимість на дорозі і підвищують безпеку при русі в негоду при доступній ціні.</description>
+    <param16 name="Тип кріплення">Універсальне</param16>
+    <param17 name="Довж. водійськ. двірника">650 мм</param17>
+  </offer>
+  <offer available="true" id="244356022">
+    <url>244356022-schtka-karkasna-velgio</url>
+    <price>85</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/354465671_w640_h640_velgio_elite_e__72_1007988.jpg</picture>
+    <picture>http://images.ua.prom.st/354465666_w640_h640_velgio_elite_e__70_1007982.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка каркасна Velgio Elite 700 мм</name>
+    <vendor>Velgio</vendor>
+    <country_of_origin>Італія</country_of_origin>
+    <description>Каркасні щітки для склоочисників Velgio серії Elite ідеально повторюють геометрію лобового скла і ефективно витакляють бруд, пил, дощову воду і сніг. Двірники Velgio Elite підходять для більшості марок автомобілів. В комплекті універсальні перехідники для різних типів кріплень. Чистяча кромка, зроблена з каучуку, покрита шаром графіту і політетрафторетилену (PTFE),  що забезпечує безшумність та довговічність роботи. Кромка каркасних двірників Velgio Elite рівномірно притискається до скла восьмиопорним металевим каркасом. Каркасні щітки склоочисника Velgio Elite забезпечують хорошу видимість на дорозі і підвищують безпеку при русі в негоду при доступній ціні.</description>
+    <param16 name="Тип кріплення">Універсальне</param16>
+    <param17 name="Довж. водійськ. двірника">700 мм</param17>
+  </offer>
+  <offer available="true" id="244348156">
+    <url>244348156-schtka-karkasna-velgio</url>
+    <price>73</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/354465671_w640_h640_velgio_elite_e__72_1007988.jpg</picture>
+    <picture>http://images.ua.prom.st/354465666_w640_h640_velgio_elite_e__70_1007982.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка каркасна Velgio Elite 600 мм</name>
+    <vendor>Velgio</vendor>
+    <country_of_origin>Італія</country_of_origin>
+    <description>Каркасні щітки для склоочисників Velgio серії Elite ідеально повторюють геометрію лобового скла і ефективно витакляють бруд, пил, дощову воду і сніг. Двірники Velgio Elite підходять для більшості марок автомобілів. В комплекті універсальні перехідники для різних типів кріплень. Чистяча кромка, зроблена з каучуку, покрита шаром графіту і політетрафторетилену (PTFE),  що забезпечує безшумність та довговічність роботи. Кромка каркасних двірників Velgio Elite рівномірно притискається до скла восьмиопорним металевим каркасом. Каркасні щітки склоочисника Velgio Elite забезпечують хорошу видимість на дорозі і підвищують безпеку при русі в негоду при доступній ціні.</description>
+    <param16 name="Тип кріплення">Універсальне</param16>
+    <param17 name="Довж. водійськ. двірника">600 мм</param17>
+  </offer>
+   <offer available="true" id="244346672">
+    <url>244346672-schtka-karkasna-velgio</url>
+    <price>65</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/354465671_w640_h640_velgio_elite_e__72_1007988.jpg</picture>
+    <picture>http://images.ua.prom.st/354465666_w640_h640_velgio_elite_e__70_1007982.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка каркасна Velgio Elite 550 мм</name>
+    <vendor>Velgio</vendor>
+    <country_of_origin>Італія</country_of_origin>
+    <description>Каркасні щітки для склоочисників Velgio серії Elite ідеально повторюють геометрію лобового скла і ефективно витакляють бруд, пил, дощову воду і сніг. Двірники Velgio Elite підходять для більшості марок автомобілів. В комплекті універсальні перехідники для різних типів кріплень. Чистяча кромка, зроблена з каучуку, покрита шаром графіту і політетрафторетилену (PTFE),  що забезпечує безшумність та довговічність роботи. Кромка каркасних двірників Velgio Elite рівномірно притискається до скла восьмиопорним металевим каркасом. Каркасні щітки склоочисника Velgio Elite забезпечують хорошу видимість на дорозі і підвищують безпеку при русі в негоду при доступній ціні.</description>
+    <param16 name="Тип кріплення">Універсальне</param16>
+    <param17 name="Довж. водійськ. двірника">550 мм</param17>
+  </offer>
+    <offer available="true" id="244344402">
+    <url>244344402-schtka-karkasna-velgio</url>
+    <price>63</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/354465671_w640_h640_velgio_elite_e__72_1007988.jpg</picture>
+    <picture>http://images.ua.prom.st/354465666_w640_h640_velgio_elite_e__70_1007982.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка каркасна Velgio Elite 530 мм</name>
+    <vendor>Velgio</vendor>
+    <country_of_origin>Італія</country_of_origin>
+    <description>Каркасні щітки для склоочисників Velgio серії Elite ідеально повторюють геометрію лобового скла і ефективно витакляють бруд, пил, дощову воду і сніг. Двірники Velgio Elite підходять для більшості марок автомобілів. В комплекті універсальні перехідники для різних типів кріплень. Чистяча кромка, зроблена з каучуку, покрита шаром графіту і політетрафторетилену (PTFE),  що забезпечує безшумність та довговічність роботи. Кромка каркасних двірників Velgio Elite рівномірно притискається до скла восьмиопорним металевим каркасом. Каркасні щітки склоочисника Velgio Elite забезпечують хорошу видимість на дорозі і підвищують безпеку при русі в негоду при доступній ціні.</description>
+    <param16 name="Тип кріплення">Універсальне</param16>
+    <param17 name="Довж. водійськ. двірника">530 мм</param17>
+  </offer>
+    <offer available="true" id="244342873">
+    <url>244342873-schtka-karkasna-velgio</url>
+    <price>60</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/354465671_w640_h640_velgio_elite_e__72_1007988.jpg</picture>
+    <picture>http://images.ua.prom.st/354465666_w640_h640_velgio_elite_e__70_1007982.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка каркасна Velgio Elite 500 мм</name>
+    <vendor>Velgio</vendor>
+    <country_of_origin>Італія</country_of_origin>
+    <description>Каркасні щітки для склоочисників Velgio серії Elite ідеально повторюють геометрію лобового скла і ефективно витакляють бруд, пил, дощову воду і сніг. Двірники Velgio Elite підходять для більшості марок автомобілів. В комплекті універсальні перехідники для різних типів кріплень. Чистяча кромка, зроблена з каучуку, покрита шаром графіту і політетрафторетилену (PTFE),  що забезпечує безшумність та довговічність роботи. Кромка каркасних двірників Velgio Elite рівномірно притискається до скла восьмиопорним металевим каркасом. Каркасні щітки склоочисника Velgio Elite забезпечують хорошу видимість на дорозі і підвищують безпеку при русі в негоду при доступній ціні.</description>
+    <param16 name="Тип кріплення">Універсальне</param16>
+    <param17 name="Довж. водійськ. двірника">500 мм</param17>
+  </offer>
+    <offer available="true" id="244340495">
+    <url>244340495-schtka-karkasna-velgio</url>
+    <price>57</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/354465671_w640_h640_velgio_elite_e__72_1007988.jpg</picture>
+    <picture>http://images.ua.prom.st/354465666_w640_h640_velgio_elite_e__70_1007982.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка каркасна Velgio Elite 480 мм</name>
+    <vendor>Velgio</vendor>
+    <country_of_origin>Італія</country_of_origin>
+    <description>Каркасні щітки для склоочисників Velgio серії Elite ідеально повторюють геометрію лобового скла і ефективно витакляють бруд, пил, дощову воду і сніг. Двірники Velgio Elite підходять для більшості марок автомобілів. В комплекті універсальні перехідники для різних типів кріплень. Чистяча кромка, зроблена з каучуку, покрита шаром графіту і політетрафторетилену (PTFE),  що забезпечує безшумність та довговічність роботи. Кромка каркасних двірників Velgio Elite рівномірно притискається до скла восьмиопорним металевим каркасом. Каркасні щітки склоочисника Velgio Elite забезпечують хорошу видимість на дорозі і підвищують безпеку при русі в негоду при доступній ціні.</description>
+    <param16 name="Тип кріплення">Універсальне</param16>
+    <param17 name="Довж. водійськ. двірника">480 мм</param17>
+  </offer>
+  <offer available="true" id="244337769">
+    <url>244337769-schtka-karkasna-velgio</url>
+    <price>54</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/354465671_w640_h640_velgio_elite_e__72_1007988.jpg</picture>
+    <picture>http://images.ua.prom.st/354465666_w640_h640_velgio_elite_e__70_1007982.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка каркасна Velgio Elite 400 мм</name>
+    <vendor>Velgio</vendor>
+    <country_of_origin>Італія</country_of_origin>
+    <description>Каркасні щітки для склоочисників Velgio серії Elite ідеально повторюють геометрію лобового скла і ефективно витакляють бруд, пил, дощову воду і сніг. Двірники Velgio Elite підходять для більшості марок автомобілів. В комплекті універсальні перехідники для різних типів кріплень. Чистяча кромка, зроблена з каучуку, покрита шаром графіту і політетрафторетилену (PTFE),  що забезпечує безшумність та довговічність роботи. Кромка каркасних двірників Velgio Elite рівномірно притискається до скла восьмиопорним металевим каркасом. Каркасні щітки склоочисника Velgio Elite забезпечують хорошу видимість на дорозі і підвищують безпеку при русі в негоду при доступній ціні.</description>
+    <param16 name="Тип кріплення">Універсальне</param16>
+    <param17 name="Довж. водійськ. двірника">400 мм</param17>
+  </offer>
+  <offer available="true" id="244329240">
+    <url>244329240-schtka-karkasna-velgio</url>
+    <price>49</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/354465671_w640_h640_velgio_elite_e__72_1007988.jpg</picture>
+    <picture>http://images.ua.prom.st/354465666_w640_h640_velgio_elite_e__70_1007982.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка каркасна Velgio Elite 380 мм</name>
+    <vendor>Velgio</vendor>
+    <country_of_origin>Італія</country_of_origin>
+    <description>Каркасні щітки для склоочисників Velgio серії Elite ідеально повторюють геометрію лобового скла і ефективно витакляють бруд, пил, дощову воду і сніг. Двірники Velgio Elite підходять для більшості марок автомобілів. В комплекті універсальні перехідники для різних типів кріплень. Чистяча кромка, зроблена з каучуку, покрита шаром графіту і політетрафторетилену (PTFE),  що забезпечує безшумність та довговічність роботи. Кромка каркасних двірників Velgio Elite рівномірно притискається до скла восьмиопорним металевим каркасом. Каркасні щітки склоочисника Velgio Elite забезпечують хорошу видимість на дорозі і підвищують безпеку при русі в негоду при доступній ціні.</description>
+    <param16 name="Тип кріплення">Універсальне</param16>
+    <param17 name="Довж. водійськ. двірника">380 мм</param17>
+  </offer>
+    <offer available="true" id="244325328">
+    <url>244325328-schtka-karkasna-velgio</url>
+    <price>45</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/354465671_w640_h640_velgio_elite_e__72_1007988.jpg</picture>
+    <picture>http://images.ua.prom.st/354465666_w640_h640_velgio_elite_e__70_1007982.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка каркасна Velgio Elite 360 мм</name>
+    <vendor>Velgio</vendor>
+    <country_of_origin>Італія</country_of_origin>
+    <description>Каркасні щітки для склоочисників Velgio серії Elite ідеально повторюють геометрію лобового скла і ефективно витакляють бруд, пил, дощову воду і сніг. Двірники Velgio Elite підходять для більшості марок автомобілів. В комплекті універсальні перехідники для різних типів кріплень. Чистяча кромка, зроблена з каучуку, покрита шаром графіту і політетрафторетилену (PTFE),  що забезпечує безшумність та довговічність роботи. Кромка каркасних двірників Velgio Elite рівномірно притискається до скла восьмиопорним металевим каркасом. Каркасні щітки склоочисника Velgio Elite забезпечують хорошу видимість на дорозі і підвищують безпеку при русі в негоду при доступній ціні.</description>
+    <param16 name="Тип кріплення">Універсальне</param16>
+    <param17 name="Довж. водійськ. двірника">360 мм</param17>
+  </offer>
+    <offer available="true" id="244322682">
+    <url>244322682-schtka-karkasna-velgio</url>
+    <price>43</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/354465671_w640_h640_velgio_elite_e__72_1007988.jpg</picture>
+    <picture>http://images.ua.prom.st/354465666_w640_h640_velgio_elite_e__70_1007982.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка каркасна Velgio Elite 330 мм</name>
+    <vendor>Velgio</vendor>
+    <country_of_origin>Італія</country_of_origin>
+    <description>Каркасні щітки для склоочисників Velgio серії Elite ідеально повторюють геометрію лобового скла і ефективно витакляють бруд, пил, дощову воду і сніг. Двірники Velgio Elite підходять для більшості марок автомобілів. В комплекті універсальні перехідники для різних типів кріплень. Чистяча кромка, зроблена з каучуку, покрита шаром графіту і політетрафторетилену (PTFE),  що забезпечує безшумність та довговічність роботи. Кромка каркасних двірників Velgio Elite рівномірно притискається до скла восьмиопорним металевим каркасом. Каркасні щітки склоочисника Velgio Elite забезпечують хорошу видимість на дорозі і підвищують безпеку при русі в негоду при доступній ціні.</description>
+    <param16 name="Тип кріплення">Універсальне</param16>
+    <param17 name="Довж. водійськ. двірника">330 мм</param17>
+  </offer>
+  <offer available="true" id="243700727">
+    <url>243700727-komplekt-schtok-bosch</url>
+    <price>26.94</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/353327322_w640_h640_dvorniki_bosch_aerotwin.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Комплект щіток Bosch Aerotwin 700+650 мм Mercedes Vito 2005-2014</name>
+    <vendor>Bosch</vendor>
+    <vendorCode>3397007311</vendorCode>
+    <country_of_origin>Бельгія</country_of_origin>
+    <description>Склоочисники BOSCH Aerotwin – флагманський продукт німецької компанії, який суміщає в собі сучасний аеродинамічний дизайн та чудову якість. Щітки цієї серії мають інтегрований спойлер, який забезпечує надійне функціонування на великій швидкості. Гумова стрічка зроблена з трьохкомпонентної гуми, що забезпечує безшумну роботу. Склоочисники Bosch Aerotwin отримали безліч нагород таких європейських організацій, як ACE, AutoZeitung, AutoBld, ADAC.</description>
+    <param16 name="Тип кріплення">Спеціальне</param16>
+    <param17 name="Довж. водійськ. двірника">700 мм</param17>
+    <param19 name="Модель">Vito</param19>
+    <param20 name="Марка">Mercedes-Benz</param20>
+    <param21 name="Довж. пас. дворника">650 мм</param21>
+    <param18 name="Місце встан.">Спереду</param18>
+  </offer>
+    <offer available="false" id="243732256">
+    <url>243732256-komplekt-schtok-bosch</url>
+    <price>24.45</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/353327322_w640_h640_dvorniki_bosch_aerotwin.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Комплект щіток Bosch Aerotwin 550+550 мм Audi A6 2004-2011</name>
+    <vendor>Bosch</vendor>
+    <vendorCode>3397118934</vendorCode>
+    <country_of_origin>Бельгія</country_of_origin>
+    <description>Склоочисники BOSCH Aerotwin – флагманський продукт німецької компанії, який суміщає в собі сучасний аеродинамічний дизайн та чудову якість. Щітки цієї серії мають інтегрований спойлер, який забезпечує надійне функціонування на великій швидкості. Гумова стрічка зроблена з трьохкомпонентної гуми, що забезпечує безшумну роботу. Склоочисники Bosch Aerotwin отримали безліч нагород таких європейських організацій, як ACE, AutoZeitung, AutoBld, ADAC.</description>
+    <param16 name="Тип кріплення">Спеціальне</param16>
+    <param17 name="Довж. водійськ. двірника">550 мм</param17>
+    <param19 name="Модель">A6</param19>
+    <param20 name="Марка">Audi</param20>
+    <param21 name="Довж. пас. дворника">550 мм</param21>
+    <param18 name="Місце встан.">Спереду</param18>
+    <param22 name="Серія">A6 (4F2, C6) 2004-2011</param22>
+    </offer>
+    <offer available="true" id="244242796">
+    <url>244242796-komplekt-schtok-bosch</url>
+    <price>17.94</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/354367217_w640_h640_268_411_thickbox.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Комплект щіток Bosch Twin Spoiler 700+650 мм Mercedes Vito 2004-2005</name>
+    <vendor>Bosch</vendor>
+    <vendorCode>3397118205</vendorCode>
+    <country_of_origin>Бельгія</country_of_origin>
+    <description>Склоочисники BOSCH Twin Spoiler ― серія класичних щіток зі спойлером від компанії Bosch. Ці щітки мають повністю металевий каркас з подвійним захистом від корозії і надточний профіль гумового елементу з двома чистячими кромками. Спойлер реалізовано у вигляді металевого «крила», яке закриває каркас щітки від повітряного потоку. На щітках розміщені форсунки для потакчі рідини склоомивача. Щітка зі сторони водія краще притискається до скла на великій швидкості за рахунок спойлера. Двокомпонентна гумка для очищення склатакється з синтетичного каучуку, що забезпечує її довговічність. 
+
+Призначені для Mercedes-Benz Vito/Viano W639 (2003 ― 2005)
+</description>
+    <param16 name="Тип кріплення">Гачок</param16>
+    <param17 name="Довж. водійськ. двірника">700 мм</param17>
+    <param19 name="Модель">Vito</param19>
+    <param20 name="Марка">Mercedes-Benz</param20>
+    <param21 name="Довж. пас. дворника">650 мм</param21>
+    <param18 name="Місце встан.">Спереду</param18>
+    <param22 name="Серия">VITO Bus (W639) 2003-</param22>
+    <param23 name="Сумісність з:">Mercedes-Benz VIANO (W639) 2003-|Mercedes-Benz VITO Bus (W639) 2003-|Mercedes-Benz VITO / MIXTO Kasten (W639) 2003-</param23>
+  </offer>
+    <offer available="true" id="244218408">
+    <url>244218408-komplekt-schtok-bosch</url>
+    <price>17.89</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/353327322_w640_h640_dvorniki_bosch_aerotwin.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Комплект щіток Bosch Aerotwin 600+530 мм </name>
+    <vendor>Bosch</vendor>
+    <vendorCode>3397118996</vendorCode>
+    <country_of_origin>Бельгія</country_of_origin>
+    <description>Склоочисники BOSCH Aerotwin – флагманський продукт німецької компанії, який суміщає в собі сучасний аеродинамічний дизайн та чудову якість. Щітки цієї серії мають інтегрований спойлер, який забезпечує надійне функціонування на великій швидкості. Гумова стрічка зроблена з трьохкомпонентної гуми, що забезпечує безшумну роботу. Склоочисники Bosch Aerotwin отримали безліч нагород таких європейських організацій, як ACE, AutoZeitung, AutoBld, ADAC.</description>
+    <param16 name="Тип кріплення">Спеціальне</param16>
+    <param17 name="Довж. водійськ. двірника">600 мм</param17>
+    <param21 name="Довж. пас. дворника">530 мм</param21>
+    <param18 name="Місце встан.">Спереду</param18>
+    <param23 name="Сумісність з:">Honda ACCORD VIII (CU) 2008-|Nissan PRIMASTAR Bus (X83) 2001-|Renault TRAFIC II (EL) 2001-|BMW X5 (E53) 2000-|Mitsubishi OUTLANDER II (CW_W) 2006-2012|Mitsubishi ASX (GA_W) 2010-|Toyota LAND CRUISER (VDJ20_ UZJ20_) 2007-|Opel VIVARO (J7) 2001-</param23>
+    </offer>
+     <offer available="false" id="248943394">
+    <url>248943394-schtka-bezkarkasna-bosch</url>
+    <price>11.08</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/353189661_w640_h640_1766525.jpg</picture>
+    <picture>http://images.ua.prom.st/360285270_w640_h640_26001.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка безкаркасна Bosch Aerotwin 650 мм</name>
+    <vendor>Bosch</vendor>
+    <vendorCode>3397008539</vendorCode>
+    <description>Склоочисники BOSCH Aerotwin – флагманський продукт німецької компанії, який суміщає в собі сучасний аеродинамічний дизайн та чудову якість. Щітки цієї серії мають інтегрований спойлер, який забезпечує надійне функціонування на великій швидкості. Гумова стрічка зроблена з трьохкомпонентної гуми, що забезпечує безшумну роботу. Склоочисники Bosch Aerotwin отримали безліч нагород таких європейських організацій, як ACE, AutoZeitung, AutoBld, ADAC.</description>
+    <param16 name="Тип кріплення">Гачок</param16>
+    <param17 name="Довж. водійськ. двірника">650 мм</param17>
+    <param18 name="Місце встан.">Спереду</param18>
+  </offer>
+    <offer available="false" id="248941752">
+    <url>248941752-schtka-bezkarkasna-bosch</url>
+    <price>10.75</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/353189661_w640_h640_1766525.jpg</picture>
+    <picture>http://images.ua.prom.st/360285270_w640_h640_26001.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка безкаркасна Bosch Aerotwin 600 мм</name>
+    <vendor>Bosch</vendor>
+    <vendorCode>3397008538</vendorCode>
+    <description>Склоочисники BOSCH Aerotwin – флагманський продукт німецької компанії, який суміщає в собі сучасний аеродинамічний дизайн та чудову якість. Щітки цієї серії мають інтегрований спойлер, який забезпечує надійне функціонування на великій швидкості. Гумова стрічка зроблена з трьохкомпонентної гуми, що забезпечує безшумну роботу. Склоочисники Bosch Aerotwin отримали безліч нагород таких європейських організацій, як ACE, AutoZeitung, AutoBld, ADAC.</description>
+    <param16 name="Тип кріплення">Гачок</param16>
+    <param17 name="Довж. водійськ. двірника">600 мм</param17>
+    <param18 name="Місце встан.">Спереду</param18>
+  </offer>
+   <offer available="true" id="243677264">
+    <url>243677264-schtka-bezkarkasna-bosch</url>
+    <price>10.68</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/353189661_w640_h640_1766525.jpg</picture>
+    <picture>http://images.ua.prom.st/353305169_w640_h640_aerotwin_multi__4x350_w734.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка безкаркасна Bosch Aerotwin 575 мм</name>
+    <vendor>Bosch</vendor>
+    <vendorCode>3397008584</vendorCode>
+    <description>Склоочисники BOSCH Aerotwin – флагманський продукт німецької компанії, який суміщає в собі сучасний аеродинамічний дизайн та чудову якість. Щітки цієї серії мають інтегрований спойлер, який забезпечує надійне функціонування на великій швидкості. Гумова стрічка зроблена з трьохкомпонентної гуми, що забезпечує безшумну роботу. Склоочисники Bosch Aerotwin отримали безліч нагород таких європейських організацій, як ACE, AutoZeitung, AutoBld, ADAC.</description>
+    <param16 name="Тип кріплення">Універсальне</param16>
+    <param17 name="Довж. водійськ. двірника">575 мм</param17>
+    <param18 name="Місце встан.">Спереду</param18>
+  </offer>
+  <offer available="false" id="248934178">
+    <url>248934178-schtka-bezkarkasna-bosch</url>
+    <price>9.25</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/353189661_w640_h640_1766525.jpg</picture>
+    <picture>http://images.ua.prom.st/360285270_w640_h640_26001.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка безкаркасна Bosch Aerotwin 530 мм</name>
+    <vendor>Bosch</vendor>
+    <vendorCode>3397008536</vendorCode>
+    <description>Склоочисники BOSCH Aerotwin – флагманський продукт німецької компанії, який суміщає в собі сучасний аеродинамічний дизайн та чудову якість. Щітки цієї серії мають інтегрований спойлер, який забезпечує надійне функціонування на великій швидкості. Гумова стрічка зроблена з трьохкомпонентної гуми, що забезпечує безшумну роботу. Склоочисники Bosch Aerotwin отримали безліч нагород таких європейських організацій, як ACE, AutoZeitung, AutoBld, ADAC.</description>
+    <param16 name="Тип кріплення">Гачок</param16>
+    <param17 name="Довж. водійськ. двірника">530 мм</param17>
+    <param18 name="Місце встан.">Спереду</param18>
+  </offer>
+  <offer available="true" id="243676396">
+    <url>243676396-schtka-bezkarkasna-bosch</url>
+    <price>9.03</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/353189661_w640_h640_1766525.jpg</picture>
+    <picture>http://images.ua.prom.st/360288604_w640_h640_26001.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка безкаркасна Bosch Aerotwin 550 мм</name>
+    <vendor>Bosch</vendor>
+    <vendorCode>3 397 008 537</vendorCode>
+    <description>Склоочисники BOSCH Aerotwin – флагманський продукт німецької компанії, який суміщає в собі сучасний аеродинамічний дизайн та чудову якість. Щітки цієї серії мають інтегрований спойлер, який забезпечує надійне функціонування на великій швидкості. Гумова стрічка зроблена з трьохкомпонентної гуми, що забезпечує безшумну роботу. Склоочисники Bosch Aerotwin отримали безліч нагород таких європейських організацій, як ACE, AutoZeitung, AutoBld, ADAC.</description>
+    <param16 name="Тип кріплення">Гачок</param16>
+    <param17 name="Довж. водійськ. двірника">550 мм</param17>
+    <param18 name="Місце встан.">Спереду</param18>
+  </offer>
+    <offer available="false" id="248928411">
+    <url>248928411-schtka-bezkarkasna-bosch</url>
+    <price>8.43</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/353189661_w640_h640_1766525.jpg</picture>
+    <picture>http://images.ua.prom.st/360285270_w640_h640_26001.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка безкаркасна Bosch Aerotwin 475 мм</name>
+    <vendor>Bosch</vendor>
+    <vendorCode>3397008533</vendorCode>
+    <description>Склоочисники BOSCH Aerotwin – флагманський продукт німецької компанії, який суміщає в собі сучасний аеродинамічний дизайн та чудову якість. Щітки цієї серії мають інтегрований спойлер, який забезпечує надійне функціонування на великій швидкості. Гумова стрічка зроблена з трьохкомпонентної гуми, що забезпечує безшумну роботу. Склоочисники Bosch Aerotwin отримали безліч нагород таких європейських організацій, як ACE, AutoZeitung, AutoBld, ADAC.</description>
+    <param16 name="Тип кріплення">Гачок</param16>
+    <param17 name="Довж. водійськ. двірника">475 мм</param17>
+    <param18 name="Місце встан.">Спереду</param18>
+  </offer>
+  <offer available="true" id="243673105">
+    <url>243673105-schtka-bezkarkasna-bosch</url>
+    <price>8.35</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/353189661_w640_h640_1766525.jpg</picture>
+    <picture>http://images.ua.prom.st/353305083_w640_h640_aerotwin_multi__4x350_w734.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка безкаркасна Bosch Aerotwin 500 мм</name>
+    <vendor>Bosch</vendor>
+    <vendorCode>3 397 008 581</vendorCode>
+    <description>Склоочисники BOSCH Aerotwin – флагманський продукт німецької компанії, який суміщає в собі сучасний аеродинамічний дизайн та чудову якість. Щітки цієї серії мають інтегрований спойлер, який забезпечує надійне функціонування на великій швидкості. Гумова стрічка зроблена з трьохкомпонентної гуми, що забезпечує безшумну роботу. Склоочисники Bosch Aerotwin отримали безліч нагород таких європейських організацій, як ACE, AutoZeitung, AutoBld, ADAC.</description>
+    <param16 name="Тип кріплення">Універсальне</param16>
+    <param17 name="Довж. водійськ. двірника">500 мм</param17>
+    <param18 name="Місце встан.">Спереду</param18>
+  </offer>
+    <offer available="false" id="248925741">
+    <url>248925741-schtka-bezkarkasna-bosch</url>
+    <price>8.1</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/353189661_w640_h640_1766525.jpg</picture>
+    <picture>http://images.ua.prom.st/360285270_w640_h640_26001.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка безкаркасна Bosch Aerotwin 450 мм</name>
+    <vendor>Bosch</vendor>
+    <vendorCode>3397008532</vendorCode>
+    <description>Склоочисники BOSCH Aerotwin – флагманський продукт німецької компанії, який суміщає в собі сучасний аеродинамічний дизайн та чудову якість. Щітки цієї серії мають інтегрований спойлер, який забезпечує надійне функціонування на великій швидкості. Гумова стрічка зроблена з трьохкомпонентної гуми, що забезпечує безшумну роботу. Склоочисники Bosch Aerotwin отримали безліч нагород таких європейських організацій, як ACE, AutoZeitung, AutoBld, ADAC.</description>
+    <param16 name="Тип кріплення">Гачок</param16>
+    <param17 name="Довж. водійськ. двірника">450 мм</param17>
+    <param18 name="Місце встан.">Спереду</param18>
+  </offer>
+   <offer available="false" id="248916602">
+    <url>248916602-schtka-bezkarkasna-bosch</url>
+    <price>7.92</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/353189661_w640_h640_1766525.jpg</picture>
+    <picture>http://images.ua.prom.st/360285270_w640_h640_26001.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка безкаркасна Bosch Aerotwin 420 мм</name>
+    <vendor>Bosch</vendor>
+    <vendorCode>3397008530</vendorCode>
+    <description>Склоочисники BOSCH Aerotwin – флагманський продукт німецької компанії, який суміщає в собі сучасний аеродинамічний дизайн та чудову якість. Щітки цієї серії мають інтегрований спойлер, який забезпечує надійне функціонування на великій швидкості. Гумова стрічка зроблена з трьохкомпонентної гуми, що забезпечує безшумну роботу. Склоочисники Bosch Aerotwin отримали безліч нагород таких європейських організацій, як ACE, AutoZeitung, AutoBld, ADAC.</description>
+    <param16 name="Тип кріплення">Гачок</param16>
+    <param17 name="Довж. водійськ. двірника">420 мм</param17>
+    <param18 name="Місце встан.">Спереду</param18>
+  </offer>
+   <offer available="false" id="248840975">
+    <url>248840975-schtka-bezkarkasna-bosch</url>
+    <price>7.79</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/353189661_w640_h640_1766525.jpg</picture>
+    <picture>http://images.ua.prom.st/360285270_w640_h640_26001.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка безкаркасна Bosch Aerotwin 400 мм</name>
+    <vendor>Bosch</vendor>
+    <vendorCode>3397008530</vendorCode>
+    <description>Склоочисники BOSCH Aerotwin – флагманський продукт німецької компанії, який суміщає в собі сучасний аеродинамічний дизайн та чудову якість. Щітки цієї серії мають інтегрований спойлер, який забезпечує надійне функціонування на великій швидкості. Гумова стрічка зроблена з трьохкомпонентної гуми, що забезпечує безшумну роботу. Склоочисники Bosch Aerotwin отримали безліч нагород таких європейських організацій, як ACE, AutoZeitung, AutoBld, ADAC.</description>
+    <param16 name="Тип кріплення">Гачок</param16>
+    <param17 name="Довж. водійськ. двірника">400 мм</param17>
+    <param18 name="Місце встан.">Спереду</param18>
+  </offer>
+    <offer available="false" id="249002547">
+    <url>249002547-schtka-bezkarkasna-bosch</url>
+    <price>7.05</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/360417780_w640_h640_bosch_metlica___a_aero_eco.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка безкаркасна Bosch AeroEco 700 мм</name>
+    <vendor>Bosch</vendor>
+    <vendorCode>3.397.013.457</vendorCode>
+    <description>Склоочисники Bosch AeroEco ― це безкаркасні склоочисники з сучасною конструкцією і привабливою ціною, що забезпечують якісне очищення скла. Робочий елемент Bosch AeroEco виготовлений з натурального каучуку, який зберігає свою еластичність впродовж всього терміну служби і ідеально підходить для експлуатації в будь-який час року. Щітка легко і швидко встановлюється за допомогою шести атакптерів, які підходять для семи типів кріплень. Для найбільш поширеного кріплення «гачок» атакптер встановлений на скло за допомогою спочатку.</description>
+    <param16 name="Тип кріплення">Універсальне</param16>
+    <param17 name="Довж. водійськ. двірника">700 мм</param17>
+    <param18 name="Місце встан.">Спереду</param18>
+  </offer>
+    <offer available="false" id="249002361">
+    <url>249002361-schtka-bezkarkasna-bosch</url>
+    <price>6.89</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/360417780_w640_h640_bosch_metlica___a_aero_eco.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка безкаркасна Bosch AeroEco 650 мм</name>
+    <vendor>Bosch</vendor>
+    <vendorCode>3.397.013.456</vendorCode>
+    <description>Склоочисники Bosch AeroEco ― це безкаркасні склоочисники з сучасною конструкцією і привабливою ціною, що забезпечують якісне очищення скла. Робочий елемент Bosch AeroEco виготовлений з натурального каучуку, який зберігає свою еластичність впродовж всього терміну служби і ідеально підходить для експлуатації в будь-який час року. Щітка легко і швидко встановлюється за допомогою шести атакптерів, які підходять для семи типів кріплень. Для найбільш поширеного кріплення «гачок» атакптер встановлений на скло за допомогою спочатку.</description>
+    <param16 name="Тип кріплення">Універсальне</param16>
+    <param17 name="Довж. водійськ. двірника">650 мм</param17>
+    <param18 name="Місце встан.">Спереду</param18>
+  </offer>
+    <offer available="false" id="249001726">
+    <url>249001726-schtka-bezkarkasna-bosch</url>
+    <price>6.63</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/360417780_w640_h640_bosch_metlica___a_aero_eco.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка безкаркасна Bosch AeroEco 600 мм</name>
+    <vendor>Bosch</vendor>
+    <vendorCode>3.397.013.455</vendorCode>
+    <description>Склоочисники Bosch AeroEco ― це безкаркасні склоочисники з сучасною конструкцією і привабливою ціною, що забезпечують якісне очищення скла. Робочий елемент Bosch AeroEco виготовлений з натурального каучуку, який зберігає свою еластичність впродовж всього терміну служби і ідеально підходить для експлуатації в будь-який час року. Щітка легко і швидко встановлюється за допомогою шести атакптерів, які підходять для семи типів кріплень. Для найбільш поширеного кріплення «гачок» атакптер встановлений на скло за допомогою спочатку.</description>
+    <param16 name="Тип кріплення">Універсальне</param16>
+    <param17 name="Довж. водійськ. двірника">600 мм</param17>
+    <param18 name="Місце встан.">Спереду</param18>
+  </offer>
+    <offer available="false" id="248998546">
+    <url>248998546-schtka-bezkarkasna-bosch</url>
+    <price>6.25</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/360417780_w640_h640_bosch_metlica___a_aero_eco.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка безкаркасна Bosch AeroEco 550 мм</name>
+    <vendor>Bosch</vendor>
+    <vendorCode>3.397.013.454</vendorCode>
+    <description>Склоочисники Bosch AeroEco ― це безкаркасні склоочисники з сучасною конструкцією і привабливою ціною, що забезпечують якісне очищення скла. Робочий елемент Bosch AeroEco виготовлений з натурального каучуку, який зберігає свою еластичність впродовж всього терміну служби і ідеально підходить для експлуатації в будь-який час року. Щітка легко і швидко встановлюється за допомогою шести атакптерів, які підходять для семи типів кріплень. Для найбільш поширеного кріплення «гачок» атакптер встановлений на скло за допомогою спочатку.</description>
+    <param16 name="Тип кріплення">Універсальне</param16>
+    <param17 name="Довж. водійськ. двірника">550 мм</param17>
+    <param18 name="Місце встан.">Спереду</param18>
+  </offer>
+    <offer available="false" id="248990670">
+    <url>248990670-schtka-bezkarkasna-bosch</url>
+    <price>5.89</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/360417780_w640_h640_bosch_metlica___a_aero_eco.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка безкаркасна Bosch AeroEco 530 мм</name>
+    <vendor>Bosch</vendor>
+    <vendorCode>3.397.013.453</vendorCode>
+    <description>Склоочисники Bosch AeroEco ― це безкаркасні склоочисники з сучасною конструкцією і привабливою ціною, що забезпечують якісне очищення скла. Робочий елемент Bosch AeroEco виготовлений з натурального каучуку, який зберігає свою еластичність впродовж всього терміну служби і ідеально підходить для експлуатації в будь-який час року. Щітка легко і швидко встановлюється за допомогою шести атакптерів, які підходять для семи типів кріплень. Для найбільш поширеного кріплення «гачок» атакптер встановлений на скло за допомогою спочатку.</description>
+    <param16 name="Тип кріплення">Універсальне</param16>
+    <param17 name="Довж. водійськ. двірника">530 мм</param17>
+    <param18 name="Місце встан.">Спереду</param18>
+  </offer>
+   <offer available="false" id="248987831">
+    <url>248987831-schtka-bezkarkasna-bosch</url>
+    <price>5.72</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/360417780_w640_h640_bosch_metlica___a_aero_eco.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка безкаркасна Bosch AeroEco 500 мм</name>
+    <vendor>Bosch</vendor>
+    <vendorCode>3.397.013.452</vendorCode>
+    <description>Склоочисники Bosch AeroEco ― це безкаркасні склоочисники з сучасною конструкцією і привабливою ціною, що забезпечують якісне очищення скла. Робочий елемент Bosch AeroEco виготовлений з натурального каучуку, який зберігає свою еластичність впродовж всього терміну служби і ідеально підходить для експлуатації в будь-який час року. Щітка легко і швидко встановлюється за допомогою шести атакптерів, які підходять для семи типів кріплень. Для найбільш поширеного кріплення «гачок» атакптер встановлений на скло за допомогою спочатку.</description>
+    <param16 name="Тип кріплення">Універсальне</param16>
+    <param17 name="Довж. водійськ. двірника">500 мм</param17>
+    <param18 name="Місце встан.">Спереду</param18>
+  </offer>
+    <offer available="false" id="248982925">
+    <url>248982925-schtka-bezkarkasna-bosch</url>
+    <price>5.56</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/360417780_w640_h640_bosch_metlica___a_aero_eco.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка безкаркасна Bosch AeroEco 470 мм</name>
+    <vendor>Bosch</vendor>
+    <vendorCode>3.397.013.451</vendorCode>
+    <description>Склоочисники Bosch AeroEco ― це безкаркасні склоочисники з сучасною конструкцією і привабливою ціною, що забезпечують якісне очищення скла. Робочий елемент Bosch AeroEco виготовлений з натурального каучуку, який зберігає свою еластичність впродовж всього терміну служби і ідеально підходить для експлуатації в будь-який час року. Щітка легко і швидко встановлюється за допомогою шести атакптерів, які підходять для семи типів кріплень. Для найбільш поширеного кріплення «гачок» атакптер встановлений на скло за допомогою спочатку.</description>
+    <param16 name="Тип кріплення">Універсальне</param16>
+    <param17 name="Довж. водійськ. двірника">470 мм</param17>
+    <param18 name="Місце встан.">Спереду</param18>
+  </offer>
+    <offer available="false" id="248978826">
+    <url>248978826-schtka-bezkarkasna-bosch</url>
+    <price>5.41</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/360417780_w640_h640_bosch_metlica___a_aero_eco.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка безкаркасна Bosch AeroEco 450 мм</name>
+    <vendor>Bosch</vendor>
+    <vendorCode>3.397.013.450</vendorCode>
+    <description>Склоочисники Bosch AeroEco ― це безкаркасні склоочисники з сучасною конструкцією і привабливою ціною, що забезпечують якісне очищення скла. Робочий елемент Bosch AeroEco виготовлений з натурального каучуку, який зберігає свою еластичність впродовж всього терміну служби і ідеально підходить для експлуатації в будь-який час року. Щітка легко і швидко встановлюється за допомогою шести атакптерів, які підходять для семи типів кріплень. Для найбільш поширеного кріплення «гачок» атакптер встановлений на скло за допомогою спочатку.</description>
+    <param16 name="Тип кріплення">Універсальне</param16>
+    <param17 name="Довж. водійськ. двірника">450 мм</param17>
+    <param18 name="Місце встан.">Спереду</param18>
+  </offer>
+    <offer available="false" id="248971997">
+    <url>248971997-schtka-bezkarkasna-bosch</url>
+    <price>5.25</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/360417780_w640_h640_bosch_metlica___a_aero_eco.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка безкаркасна Bosch AeroEco 400 мм</name>
+    <vendor>Bosch</vendor>
+    <vendorCode>3.397.013.449</vendorCode>
+    <description>Склоочисники Bosch AeroEco ― це безкаркасні склоочисники з сучасною конструкцією і привабливою ціною, що забезпечують якісне очищення скла. Робочий елемент Bosch AeroEco виготовлений з натурального каучуку, який зберігає свою еластичність впродовж всього терміну служби і ідеально підходить для експлуатації в будь-який час року. Щітка легко і швидко встановлюється за допомогою шести атакптерів, які підходять для семи типів кріплень. Для найбільш поширеного кріплення «гачок» атакптер встановлений на скло за допомогою спочатку.</description>
+    <param16 name="Тип кріплення">Універсальне</param16>
+    <param17 name="Довж. водійськ. двірника">400 мм</param17>
+    <param18 name="Місце встан.">Ззаду, Спереду</param18>
+  </offer>
+    <offer available="false" id="248966244">
+    <url>248966244-schtka-bezkarkasna-bosch</url>
+    <price>5.1</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/360417780_w640_h640_bosch_metlica___a_aero_eco.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка безкаркасна Bosch AeroEco 380 мм</name>
+    <vendor>Bosch</vendor>
+    <vendorCode>3.397.013.462</vendorCode>
+    <description>Склоочисники Bosch AeroEco ― це безкаркасні склоочисники з сучасною конструкцією і привабливою ціною, що забезпечують якісне очищення скла. Робочий елемент Bosch AeroEco виготовлений з натурального каучуку, який зберігає свою еластичність впродовж всього терміну служби і ідеально підходить для експлуатації в будь-який час року. Щітка легко і швидко встановлюється за допомогою шести атакптерів, які підходять для семи типів кріплень. Для найбільш поширеного кріплення «гачок» атакптер встановлений на скло за допомогою спочатку.</description>
+    <param16 name="Тип кріплення">Універсальне</param16>
+    <param17 name="Довж. водійськ. двірника">380 мм</param17>
+    <param18 name="Місце встан.">Ззаду, Спереду</param18>
+  </offer>
+   <offer available="false" id="248959193">
+    <url>248959193-schtka-bezkarkasna-bosch</url>
+    <price>4.95</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/360417780_w640_h640_bosch_metlica___a_aero_eco.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка безкаркасна Bosch AeroEco 350 мм</name>
+    <vendor>Bosch</vendor>
+    <vendorCode>3.397.013.448</vendorCode>
+    <description>Склоочисники Bosch AeroEco ― це безкаркасні склоочисники з сучасною конструкцією і привабливою ціною, що забезпечують якісне очищення скла. Робочий елемент Bosch AeroEco виготовлений з натурального каучуку, який зберігає свою еластичність впродовж всього терміну служби і ідеально підходить для експлуатації в будь-який час року. Щітка легко і швидко встановлюється за допомогою шести атакптерів, які підходять для семи типів кріплень. Для найбільш поширеного кріплення «гачок» атакптер встановлений на скло за допомогою спочатку.</description>
+    <param16 name="Тип кріплення">Універсальне</param16>
+    <param17 name="Довж. водійськ. двірника">350 мм</param17>
+    <param18 name="Місце встан.">Ззаду, Спереду</param18>
+  </offer>
+   <offer available="true" id="243682242">
+    <url>243682242-schtka-karkasna-bosch</url>
+    <price>2.3</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>9680915</categoryId>
+    <picture>http://images.ua.prom.st/353299947_w640_h640_3397004667.jpg</picture>
+    <picture>http://images.ua.prom.st/353300114_w640_h640_shop_items_cat___image994.jpeg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Щітка каркасна Bosch Eco 450 мм</name>
+    <vendor>Bosch</vendor>
+    <vendorCode>3397004668</vendorCode>
+    <description>Склоочисники BOSCH Eco суміщають високу якість і низьку ціну. Щітки цієї серії виготовляються для автомобілів з кріпленням «гачок» і оснащені атакптером Quick Clip. Каркаси щіток виконані зроблені з металу і мають антикорозійне покриття, а особлива форма не такє їм самовільно підійматись догори на великій швидкості. В щітках Bosch Eco не передбачена можливість заміни гумової стрічки, Bosch позиціонує такну серію як більш просту альтернативу заміні гумових вставок. Bosch Eco існують в одиночних упаковках, або у комплектах із двох однакових щіток.</description>
+    <param16 name="Тип кріплення">Універсальне</param16>
+    <param17 name="Довж. водійськ. двірника">450 мм</param17>
+    <param18 name="Місце встан.">Спереду</param18>
+  </offer>
+  
+  </offers>

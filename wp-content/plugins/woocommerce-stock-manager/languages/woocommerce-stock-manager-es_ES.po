@@ -1,0 +1,293 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Stock-Manager Español\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-28 07:28+0200\n"
+"PO-Revision-Date: 2016-09-28 07:29+0200\n"
+"Last-Translator: Vladislav Musílek <musilekv@seznam.cz>\n"
+"Language-Team: InditecGroup.com <info@inditecgroup.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.9\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-stock-manager-admin.php:133
+#: ../admin/class-stock-manager-admin.php:134
+msgid "WooCommerce Stock Manager"
+msgstr "WooCommerce Stock Manager"
+
+#: ../admin/class-stock-manager-admin.php:142
+#: ../admin/class-stock-manager-admin.php:143
+msgid "Import/Export"
+msgstr "Importar/Exportar"
+
+#: ../admin/class-stock-manager-admin.php:177
+msgid "Settings"
+msgstr "Configuraciones"
+
+#: ../admin/includes/config.php:6 ../admin/includes/config.php:16
+#: ../admin/includes/config.php:21 ../admin/includes/config.php:26
+#: ../admin/includes/config.php:31 ../admin/views/admin.php:46
+#: ../admin/views/import-export.php:43 ../admin/views/import-export.php:65
+msgid "SKU"
+msgstr "Nº Referencia"
+
+#: ../admin/includes/config.php:11 ../admin/views/admin.php:47
+msgid "ID"
+msgstr "ID"
+
+#: ../admin/includes/wcm-class-table.php:103 ../admin/views/admin.php:75
+msgid "Show variables"
+msgstr ""
+
+#: ../admin/views/admin.php:35
+msgid "Stock manager"
+msgstr "Administrador de stock"
+
+#: ../admin/views/admin.php:48
+msgid "Name"
+msgstr "Nombre"
+
+#: ../admin/views/admin.php:49 ../admin/views/import-export.php:49
+msgid "Product type"
+msgstr "Tipo de producto"
+
+#: ../admin/views/admin.php:50
+msgid "Parent ID"
+msgstr "ID padre"
+
+#: ../admin/views/admin.php:51
+msgid "Price"
+msgstr ""
+
+#: ../admin/views/admin.php:52
+msgid "Weight"
+msgstr ""
+
+#: ../admin/views/admin.php:53 ../admin/views/components/filter.php:39
+#: ../admin/views/import-export.php:45 ../admin/views/import-export.php:66
+msgid "Manage stock"
+msgstr "Gestionar stock"
+
+#: ../admin/views/admin.php:54 ../admin/views/components/filter.php:45
+#: ../admin/views/import-export.php:46 ../admin/views/import-export.php:67
+msgid "Stock status"
+msgstr "Estado del stock"
+
+#: ../admin/views/admin.php:55 ../admin/views/import-export.php:47
+#: ../admin/views/import-export.php:68
+msgid "Backorders"
+msgstr "Pedidos pendientes"
+
+#: ../admin/views/admin.php:56 ../admin/views/import-export.php:48
+#: ../admin/views/import-export.php:69
+msgid "Stock"
+msgstr "Stock"
+
+#: ../admin/views/admin.php:58 ../admin/views/admin.php:123
+#: ../admin/views/admin.php:205
+msgid "Save"
+msgstr "Guardar"
+
+#: ../admin/views/admin.php:85 ../admin/views/admin.php:99
+#: ../admin/views/admin.php:166 ../admin/views/admin.php:180
+msgid "Yes"
+msgstr "Sí"
+
+#: ../admin/views/admin.php:86 ../admin/views/admin.php:97
+#: ../admin/views/admin.php:167 ../admin/views/admin.php:178
+msgid "No"
+msgstr "No"
+
+#: ../admin/views/admin.php:91 ../admin/views/admin.php:172
+#: ../admin/views/components/filter.php:46
+msgid "In stock"
+msgstr "En stock"
+
+#: ../admin/views/admin.php:92 ../admin/views/admin.php:173
+#: ../admin/views/components/filter.php:47
+msgid "Out of stock"
+msgstr "Agotado"
+
+#: ../admin/views/admin.php:98 ../admin/views/admin.php:179
+msgid "Notify"
+msgstr "Notificar"
+
+#: ../admin/views/admin.php:218
+msgid "Save all"
+msgstr "Guardar todo"
+
+#: ../admin/views/components/filter.php:3
+msgid "Filter"
+msgstr ""
+
+#: ../admin/views/components/filter.php:4
+#: ../admin/views/components/filter.php:62
+msgid "Search by sku"
+msgstr ""
+
+#: ../admin/views/components/filter.php:14
+msgid "Order by"
+msgstr ""
+
+#: ../admin/views/components/filter.php:15
+msgid "Product name ASC"
+msgstr ""
+
+#: ../admin/views/components/filter.php:16
+msgid "Product name DESC"
+msgstr ""
+
+#: ../admin/views/components/filter.php:17
+msgid "SKU ASC"
+msgstr ""
+
+#: ../admin/views/components/filter.php:18
+msgid "SKU DESC"
+msgstr ""
+
+#: ../admin/views/components/filter.php:22
+msgid "Simple products"
+msgstr "Productos simples"
+
+#: ../admin/views/components/filter.php:23
+msgid "Products with variation"
+msgstr "Productos variables"
+
+#: ../admin/views/components/filter.php:27
+msgid "All categories"
+msgstr "Todas las categorías"
+
+#: ../admin/views/components/filter.php:40
+msgid "No manage stock"
+msgstr "No gestionar stock"
+
+#: ../admin/views/components/filter.php:41
+msgid "Yes manage stock"
+msgstr "Sí gestionar stock"
+
+#: ../admin/views/components/filter.php:51
+msgid "Show"
+msgstr "Mostrar"
+
+#: ../admin/views/components/filter.php:53
+msgid "Clear filter"
+msgstr "Limpiar filtro"
+
+#: ../admin/views/import-export.php:35
+msgid "Import"
+msgstr "Importar"
+
+#: ../admin/views/import-export.php:38
+msgid "You can upload csv file, with your stock data. "
+msgstr "Usted puede subir un archivo csv, con su información de stock."
+
+#: ../admin/views/import-export.php:39
+msgid ""
+"CSV file must be in this format, or you can export file with exist data and "
+"edit them. "
+msgstr ""
+"El archivo CSV debe estar en este forma, o usted puede exportar el archivo "
+"con la información existente y editarlo."
+
+#: ../admin/views/import-export.php:40
+msgid "File format. "
+msgstr "Formato del archivo."
+
+#: ../admin/views/import-export.php:44
+msgid "Product name"
+msgstr ""
+
+#: ../admin/views/import-export.php:50
+msgid "Parent SKU"
+msgstr "Nº Referencia padre"
+
+#: ../admin/views/import-export.php:53
+msgid "111111"
+msgstr "111111"
+
+#: ../admin/views/import-export.php:54
+msgid "T-shirt"
+msgstr ""
+
+#: ../admin/views/import-export.php:55 ../admin/views/import-export.php:57
+msgid "yes"
+msgstr "Sí"
+
+#: ../admin/views/import-export.php:56
+msgid "instock"
+msgstr "En stock"
+
+#: ../admin/views/import-export.php:58
+msgid "10"
+msgstr "10"
+
+#: ../admin/views/import-export.php:59
+msgid "simple"
+msgstr "simple"
+
+#: ../admin/views/import-export.php:65
+msgid ""
+"product unique identificator, required. Neccessary for import and export."
+msgstr ""
+"producto de identificación único, requerido. Necesario para la importación y "
+"exportación."
+
+#: ../admin/views/import-export.php:66 ../admin/views/import-export.php:68
+msgid "values: \"yes\", \"notify\", \"no\". If is empty \"no\" will be save."
+msgstr ""
+"Valores: \"sí\",\"notificar\",\"no\". Si está vacío \"no\" se guardará."
+
+#: ../admin/views/import-export.php:67
+msgid ""
+"values: \"instock\", \"outofstock\". If is empty \"outofstock\" will be save."
+msgstr ""
+"Valores: \"En stock\",\"Agotado\". Si está vacío \"Agotado\" se guardará."
+
+#: ../admin/views/import-export.php:69
+msgid "quantity value. If is empty, 0 will be save."
+msgstr "valor de cantidad. Si está vacío, se guardará 0."
+
+#: ../admin/views/import-export.php:76
+msgid "Upload csv file"
+msgstr "Subir archivo csv"
+
+#: ../admin/views/import-export.php:84
+msgid "Upload"
+msgstr "Subir"
+
+#: ../admin/views/import-export.php:95
+msgid "The file "
+msgstr "El archivo"
+
+#: ../admin/views/import-export.php:122
+msgid "Product with ID: "
+msgstr ""
+
+#: ../admin/views/import-export.php:133
+msgid "Sorry, there was an error uploading your file."
+msgstr "Perdón, ocurrió un error subiendo el archivo."
+
+#: ../admin/views/import-export.php:147
+msgid "Export"
+msgstr "Exportar"
+
+#: ../admin/views/import-export.php:150
+msgid "You can download csv file, with your stock data. "
+msgstr "Usted puede descargar un archivo csv, con su información de stock."
+
+#: ../admin/views/import-export.php:151
+msgid "Create export file"
+msgstr "Crear archivo de exportación"
+
+#~ msgid "Show wariables"
+#~ msgstr "Mostrar variables"
+
+#~ msgid "Product with SKU: "
+#~ msgstr "Producto con Nº Referencia"

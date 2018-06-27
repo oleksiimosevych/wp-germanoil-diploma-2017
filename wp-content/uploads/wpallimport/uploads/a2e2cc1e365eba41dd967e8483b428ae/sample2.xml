@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<column_1><![CDATA[10000]]></column_1>
+		<column_2><![CDATA[MANN]]></column_2>
+		<column_3><![CDATA[MANN CU 5257]]></column_3>
+		<column_4><![CDATA[CU 5257]]></column_4>
+		<column_5><![CDATA[7,56]]></column_5>
+		<column_6><![CDATA[0]]></column_6>
+		<column_7><![CDATA[0]]></column_7>
+		<column_8><![CDATA[Ôèëüòð ñàëîíà]]></column_8>
+	</node>
+	<node>
+		<column_1><![CDATA[100000]]></column_1>
+		<column_2><![CDATA[WIX FILTERS]]></column_2>
+		<column_3><![CDATA[WIX WA6238 = FN AP072]]></column_3>
+		<column_4><![CDATA[WA6238]]></column_4>
+		<column_5><![CDATA[4,14]]></column_5>
+		<column_6><![CDATA[0]]></column_6>
+		<column_7><![CDATA[1]]></column_7>
+		<column_8><![CDATA[Ôèëüòð âîçäóøíûé]]></column_8>
+	</node>
+	<node>
+		<column_1><![CDATA[100001]]></column_1>
+		<column_2><![CDATA[WIX FILTERS]]></column_2>
+		<column_3><![CDATA[WIX WA6779 = FN AP130/7]]></column_3>
+		<column_4><![CDATA[WA6779]]></column_4>
+		<column_5><![CDATA[3,86]]></column_5>
+		<column_6><![CDATA[1]]></column_6>
+		<column_7><![CDATA[3]]></column_7>
+		<column_8><![CDATA[Ôèëüòð âîçäóøíûé]]></column_8>
+	</node>
+	<node>
+		<column_1><![CDATA[100002]]></column_1>
+		<column_2><![CDATA[WIX FILTERS]]></column_2>
+		<column_3><![CDATA[WIX WA6704 = FN AP139/1]]></column_3>
+		<column_4><![CDATA[WA6704]]></column_4>
+		<column_5><![CDATA[5,12]]></column_5>
+		<column_6><![CDATA[0]]></column_6>
+		<column_7><![CDATA[1]]></column_7>
+		<column_8><![CDATA[Ôèëüòð âîçäóøíûé]]></column_8>
+	</node>
+</data>

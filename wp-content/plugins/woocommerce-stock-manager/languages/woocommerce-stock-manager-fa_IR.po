@@ -1,0 +1,297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Stock Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-28 07:29+0200\n"
+"PO-Revision-Date: 2016-09-28 07:29+0200\n"
+"Last-Translator: Vladislav Musílek <musilekv@seznam.cz>\n"
+"Language-Team: Saakhtani <info@saakhtani.ir>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.9\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-stock-manager-admin.php:133
+#: ../admin/class-stock-manager-admin.php:134
+msgid "WooCommerce Stock Manager"
+msgstr "مدیریت موجودی ووکامرس"
+
+#: ../admin/class-stock-manager-admin.php:142
+#: ../admin/class-stock-manager-admin.php:143
+msgid "Import/Export"
+msgstr "ورود و خروج"
+
+#: ../admin/class-stock-manager-admin.php:177
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: ../admin/includes/config.php:6 ../admin/includes/config.php:16
+#: ../admin/includes/config.php:21 ../admin/includes/config.php:26
+#: ../admin/includes/config.php:31 ../admin/views/admin.php:46
+#: ../admin/views/import-export.php:43 ../admin/views/import-export.php:65
+msgid "SKU"
+msgstr "SKU"
+
+#: ../admin/includes/config.php:11 ../admin/views/admin.php:47
+msgid "ID"
+msgstr "ID"
+
+#: ../admin/includes/wcm-class-table.php:103 ../admin/views/admin.php:75
+msgid "Show variables"
+msgstr ""
+
+#: ../admin/views/admin.php:35
+msgid "Stock manager"
+msgstr "مدیریت موجودی"
+
+#: ../admin/views/admin.php:48
+msgid "Name"
+msgstr "نام"
+
+#: ../admin/views/admin.php:49 ../admin/views/import-export.php:49
+msgid "Product type"
+msgstr "نوع کالا"
+
+#: ../admin/views/admin.php:50
+msgid "Parent ID"
+msgstr "شناسه والد"
+
+#: ../admin/views/admin.php:51
+msgid "Price"
+msgstr ""
+
+#: ../admin/views/admin.php:52
+msgid "Weight"
+msgstr ""
+
+#: ../admin/views/admin.php:53 ../admin/views/components/filter.php:39
+#: ../admin/views/import-export.php:45 ../admin/views/import-export.php:66
+msgid "Manage stock"
+msgstr "مدیریت موجودی"
+
+#: ../admin/views/admin.php:54 ../admin/views/components/filter.php:45
+#: ../admin/views/import-export.php:46 ../admin/views/import-export.php:67
+msgid "Stock status"
+msgstr "وضعیت موجودی"
+
+#: ../admin/views/admin.php:55 ../admin/views/import-export.php:47
+#: ../admin/views/import-export.php:68
+msgid "Backorders"
+msgstr "سفارش دوباره"
+
+#: ../admin/views/admin.php:56 ../admin/views/import-export.php:48
+#: ../admin/views/import-export.php:69
+msgid "Stock"
+msgstr "موجودی"
+
+#: ../admin/views/admin.php:58 ../admin/views/admin.php:123
+#: ../admin/views/admin.php:205
+msgid "Save"
+msgstr "ذخیره"
+
+#: ../admin/views/admin.php:85 ../admin/views/admin.php:99
+#: ../admin/views/admin.php:166 ../admin/views/admin.php:180
+msgid "Yes"
+msgstr "بله"
+
+#: ../admin/views/admin.php:86 ../admin/views/admin.php:97
+#: ../admin/views/admin.php:167 ../admin/views/admin.php:178
+msgid "No"
+msgstr "خیر"
+
+#: ../admin/views/admin.php:91 ../admin/views/admin.php:172
+#: ../admin/views/components/filter.php:46
+msgid "In stock"
+msgstr "موجود"
+
+#: ../admin/views/admin.php:92 ../admin/views/admin.php:173
+#: ../admin/views/components/filter.php:47
+msgid "Out of stock"
+msgstr "نا موجود"
+
+#: ../admin/views/admin.php:98 ../admin/views/admin.php:179
+msgid "Notify"
+msgstr "آگاه کن"
+
+#: ../admin/views/admin.php:218
+msgid "Save all"
+msgstr "ذخیره همه موارد"
+
+#: ../admin/views/components/filter.php:3
+msgid "Filter"
+msgstr ""
+
+#: ../admin/views/components/filter.php:4
+#: ../admin/views/components/filter.php:62
+msgid "Search by sku"
+msgstr ""
+
+#: ../admin/views/components/filter.php:14
+msgid "Order by"
+msgstr ""
+
+#: ../admin/views/components/filter.php:15
+msgid "Product name ASC"
+msgstr ""
+
+#: ../admin/views/components/filter.php:16
+msgid "Product name DESC"
+msgstr ""
+
+#: ../admin/views/components/filter.php:17
+msgid "SKU ASC"
+msgstr ""
+
+#: ../admin/views/components/filter.php:18
+msgid "SKU DESC"
+msgstr ""
+
+#: ../admin/views/components/filter.php:22
+msgid "Simple products"
+msgstr "محصولات ساده"
+
+#: ../admin/views/components/filter.php:23
+msgid "Products with variation"
+msgstr "محصولات دارای گونه"
+
+#: ../admin/views/components/filter.php:27
+msgid "All categories"
+msgstr "همه دسته بندی ها"
+
+#: ../admin/views/components/filter.php:40
+msgid "No manage stock"
+msgstr "عدم مدیریت موجودی"
+
+#: ../admin/views/components/filter.php:41
+msgid "Yes manage stock"
+msgstr "مدیریت موجودی"
+
+#: ../admin/views/components/filter.php:51
+msgid "Show"
+msgstr "نمایش"
+
+#: ../admin/views/components/filter.php:53
+msgid "Clear filter"
+msgstr "پاک کردن فیلتر ها"
+
+#: ../admin/views/import-export.php:35
+msgid "Import"
+msgstr "درون ریزی"
+
+#: ../admin/views/import-export.php:38
+msgid "You can upload csv file, with your stock data. "
+msgstr "شما می توانید فایل CSV حاوی اطلاعات موجودی خود را بارگذاری کنید"
+
+#: ../admin/views/import-export.php:39
+msgid ""
+"CSV file must be in this format, or you can export file with exist data and "
+"edit them. "
+msgstr ""
+"فایل CSV باید دارای این فرمت باشد ، یا می توانید یک فایل از داده های موجود "
+"را برون بری کرده و سپس آن فایل را ویرایش نمایید"
+
+#: ../admin/views/import-export.php:40
+msgid "File format. "
+msgstr "فرمت فایل."
+
+#: ../admin/views/import-export.php:44
+msgid "Product name"
+msgstr ""
+
+#: ../admin/views/import-export.php:50
+msgid "Parent SKU"
+msgstr "SKU والد"
+
+#: ../admin/views/import-export.php:53
+msgid "111111"
+msgstr "111111"
+
+#: ../admin/views/import-export.php:54
+msgid "T-shirt"
+msgstr ""
+
+#: ../admin/views/import-export.php:55 ../admin/views/import-export.php:57
+msgid "yes"
+msgstr "بله"
+
+#: ../admin/views/import-export.php:56
+msgid "instock"
+msgstr "موجود"
+
+#: ../admin/views/import-export.php:58
+msgid "10"
+msgstr "10"
+
+#: ../admin/views/import-export.php:59
+msgid "simple"
+msgstr "ساده"
+
+#: ../admin/views/import-export.php:65
+msgid ""
+"product unique identificator, required. Neccessary for import and export."
+msgstr ""
+"شناسه یکتای محصول مورد نیاز است، این داده برای درون ریزی و برون بری حیاتی "
+"محسوب می شود."
+
+#: ../admin/views/import-export.php:66 ../admin/views/import-export.php:68
+msgid "values: \"yes\", \"notify\", \"no\". If is empty \"no\" will be save."
+msgstr ""
+"مقدارهای : \"بله\" ، \"آگاه کن\" و \"خیر\" در دسترس هستند. در صورت عدم "
+"انتخاب پیش فرض \"خیر\" است."
+
+#: ../admin/views/import-export.php:67
+msgid ""
+"values: \"instock\", \"outofstock\". If is empty \"outofstock\" will be save."
+msgstr ""
+"مقدارهای : \"موجود\" و \"نا موجود\" در دسترس هستند. در صورت عدم انتخاب پیش "
+"فرض \"نا موجود\" است."
+
+#: ../admin/views/import-export.php:69
+msgid "quantity value. If is empty, 0 will be save."
+msgstr "مقدار تعداد موجودی کالا ، پیش فرض 0 است."
+
+#: ../admin/views/import-export.php:76
+msgid "Upload csv file"
+msgstr "بارگذاری فایل CSV"
+
+#: ../admin/views/import-export.php:84
+msgid "Upload"
+msgstr "بارگذاری"
+
+#: ../admin/views/import-export.php:95
+msgid "The file "
+msgstr "فایل"
+
+#: ../admin/views/import-export.php:122
+msgid "Product with ID: "
+msgstr ""
+
+#: ../admin/views/import-export.php:133
+msgid "Sorry, there was an error uploading your file."
+msgstr "متاسفیم ، مشکلی در بارگذاری فایل شما به وجود آمد."
+
+#: ../admin/views/import-export.php:147
+msgid "Export"
+msgstr "برون بری"
+
+#: ../admin/views/import-export.php:150
+msgid "You can download csv file, with your stock data. "
+msgstr ""
+"شما می توانید فایل CSV تولید شده حاوی اطلاعات موجودی کالاهایتان را دانلود "
+"کنید."
+
+#: ../admin/views/import-export.php:151
+msgid "Create export file"
+msgstr "ساخت فایل برون بری"
+
+#~ msgid "Show wariables"
+#~ msgstr "نمایش گونه ها"
+
+#~ msgid "Product with SKU: "
+#~ msgstr "محصول با SKU:"

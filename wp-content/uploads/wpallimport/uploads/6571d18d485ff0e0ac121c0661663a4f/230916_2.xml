@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<id><![CDATA[150]]></id>
+		<title><![CDATA[Масло трансмісійне VAG Gear Oil 1л (G052145S2)]]></title>
+		<content><![CDATA[Масло трансмісійне VW G 052 145 ― оригінальне спеціальне масло найвищої якості для диференціалів переднього і заднього мостів та роздавальної коробки автомобілів VW, AUDI, SEAT, Skoda. Якщо у Вас виникли якісь труднощі при виборі масла, не соромтеся задавати питання нашим менеджерам по телефону. Ми можемо здійснити доставку товару з нашого інтернет магазину GermanOil в будь-яку точку України зручною для Вас транспортною компанією.]]></content>
+		<sku><![CDATA[456456456]]></sku>
+		<producttype><![CDATA[simple]]></producttype>
+		<parent_id><![CDATA[0]]></parent_id>
+		<price><![CDATA[718]]></price>
+		<stockstatus><![CDATA[instock]]></stockstatus>
+		<stock><![CDATA[10]]></stock>
+		<attributenamepa_country><![CDATA[Країна виготовлення]]></attributenamepa_country>
+		<attributevaluepa_country><![CDATA[Німеччина]]></attributevaluepa_country>
+		<attributeinvariationspa_country><![CDATA[no]]></attributeinvariationspa_country>
+		<attributeisvisiblepa_country><![CDATA[no]]></attributeisvisiblepa_country>
+		<attributeistaxonomypa_country><![CDATA[no]]></attributeistaxonomypa_country>
+		<attributenamepa_dopusky><![CDATA[Допуски]]></attributenamepa_dopusky>
+		<attributevaluepa_dopusky><![CDATA[]]></attributevaluepa_dopusky>
+		<attributeinvariationspa_dopusky><![CDATA[no]]></attributeinvariationspa_dopusky>
+		<attributeisvisiblepa_dopusky><![CDATA[yes]]></attributeisvisiblepa_dopusky>
+		<attributeistaxonomypa_dopusky><![CDATA[yes]]></attributeistaxonomypa_dopusky>
+		<attributenamepa_energy><![CDATA[Енергозберігаюче мастило]]></attributenamepa_energy>
+		<attributevaluepa_energy><![CDATA[]]></attributevaluepa_energy>
+		<attributeinvariationspa_energy><![CDATA[no]]></attributeinvariationspa_energy>
+		<attributeisvisiblepa_energy><![CDATA[no]]></attributeisvisiblepa_energy>
+		<attributeistaxonomypa_energy><![CDATA[no]]></attributeistaxonomypa_energy>
+		<attributenamepa_forvehicle><![CDATA[Для типу двигунів]]></attributenamepa_forvehicle>
+		<attributevaluepa_forvehicle><![CDATA[]]></attributevaluepa_forvehicle>
+		<attributeinvariationspa_forvehicle><![CDATA[no]]></attributeinvariationspa_forvehicle>
+		<attributeisvisiblepa_forvehicle><![CDATA[no]]></attributeisvisiblepa_forvehicle>
+		<attributeistaxonomypa_forvehicle><![CDATA[no]]></attributeistaxonomypa_forvehicle>
+		<attributenamepa_howmuch><![CDATA[Об'єм рідини]]></attributenamepa_howmuch>
+		<attributevaluepa_howmuch><![CDATA[1.0 (л)]]></attributevaluepa_howmuch>
+		<attributeinvariationspa_howmuch><![CDATA[no]]></attributeinvariationspa_howmuch>
+		<attributeisvisiblepa_howmuch><![CDATA[yes]]></attributeisvisiblepa_howmuch>
+		<attributeistaxonomypa_howmuch><![CDATA[yes]]></attributeistaxonomypa_howmuch>
+		<attributenamepa_kind><![CDATA[Вид масла]]></attributenamepa_kind>
+		<attributevaluepa_kind><![CDATA[Синтетичне]]></attributevaluepa_kind>
+		<attributeinvariationspa_kind><![CDATA[no]]></attributeinvariationspa_kind>
+		<attributeisvisiblepa_kind><![CDATA[yes]]></attributeisvisiblepa_kind>
+		<attributeistaxonomypa_kind><![CDATA[yes]]></attributeistaxonomypa_kind>
+		<attributenamepa_sae><![CDATA[В'язкість мастила по SAE]]></attributenamepa_sae>
+		<attributevaluepa_sae><![CDATA[]]></attributevaluepa_sae>
+		<attributeinvariationspa_sae><![CDATA[no]]></attributeinvariationspa_sae>
+		<attributeisvisiblepa_sae><![CDATA[no]]></attributeisvisiblepa_sae>
+		<attributeistaxonomypa_sae><![CDATA[no]]></attributeistaxonomypa_sae>
+		<attributenamepa_spec><![CDATA[Специфікації]]></attributenamepa_spec>
+		<attributevaluepa_spec><![CDATA[API GL-5]]></attributevaluepa_spec>
+		<attributeinvariationspa_spec><![CDATA[no]]></attributeinvariationspa_spec>
+		<attributeisvisiblepa_spec><![CDATA[no]]></attributeisvisiblepa_spec>
+		<attributeistaxonomypa_spec><![CDATA[no]]></attributeistaxonomypa_spec>
+		<attributenamepa_tact><![CDATA[Кількість тактів двигуна]]></attributenamepa_tact>
+		<attributevaluepa_tact><![CDATA[]]></attributevaluepa_tact>
+		<attributeinvariationspa_tact><![CDATA[no]]></attributeinvariationspa_tact>
+		<attributeisvisiblepa_tact><![CDATA[no]]></attributeisvisiblepa_tact>
+		<attributeistaxonomypa_tact><![CDATA[no]]></attributeistaxonomypa_tact>
+		<attributenamepa_usefor><![CDATA[Застосовувати для]]></attributenamepa_usefor>
+		<attributevaluepa_usefor><![CDATA[]]></attributevaluepa_usefor>
+		<attributeinvariationspa_usefor><![CDATA[no]]></attributeinvariationspa_usefor>
+		<attributeisvisiblepa_usefor><![CDATA[no]]></attributeisvisiblepa_usefor>
+		<attributeistaxonomypa_usefor><![CDATA[no]]></attributeistaxonomypa_usefor>
+		<attributenamepa_virobnik><![CDATA[Виробник]]></attributenamepa_virobnik>
+		<attributevaluepa_virobnik><![CDATA[Volkswagen]]></attributevaluepa_virobnik>
+		<attributeinvariationspa_virobnik><![CDATA[no]]></attributeinvariationspa_virobnik>
+		<attributeisvisiblepa_virobnik><![CDATA[yes]]></attributeisvisiblepa_virobnik>
+		<attributeistaxonomypa_virobnik><![CDATA[yes]]></attributeistaxonomypa_virobnik>
+		<attributenamed0bcd0b0d180d0bad0b0d0b0d0b2d182d0bed0bcd0bed0b1d196d0bbd18f><![CDATA[%d0%bc%d0%b0%d1%80%d0%ba%d0%b0-%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d1%96%d0%bb%d1%8f]]></attributenamed0bcd0b0d180d0bad0b0d0b0d0b2d182d0bed0bcd0bed0b1d196d0bbd18f>
+		<attributevalued0bcd0b0d180d0bad0b0d0b0d0b2d182d0bed0bcd0bed0b1d196d0bbd18f><![CDATA[]]></attributevalued0bcd0b0d180d0bad0b0d0b0d0b2d182d0bed0bcd0bed0b1d196d0bbd18f>
+		<attributeinvariationsd0bcd0b0d180d0bad0b0d0b0d0b2d182d0bed0bcd0bed0b1d196d0bbd18f><![CDATA[no]]></attributeinvariationsd0bcd0b0d180d0bad0b0d0b0d0b2d182d0bed0bcd0bed0b1d196d0bbd18f>
+		<attributeisvisibled0bcd0b0d180d0bad0b0d0b0d0b2d182d0bed0bcd0bed0b1d196d0bbd18f><![CDATA[no]]></attributeisvisibled0bcd0b0d180d0bad0b0d0b0d0b2d182d0bed0bcd0bed0b1d196d0bbd18f>
+		<attributeistaxonomyd0bcd0b0d180d0bad0b0d0b0d0b2d182d0bed0bcd0bed0b1d196d0bbd18f><![CDATA[no]]></attributeistaxonomyd0bcd0b0d180d0bad0b0d0b0d0b2d182d0bed0bcd0bed0b1d196d0bbd18f>
+		<attributenamed0bcd0bed0b4d0b5d0bbd18cd0b2d0b0d188d0bed0b3d0bed0b0d0b2d182d0bed0bcd0bed0b1d196d0bbd18f><![CDATA[%d0%bc%d0%be%d0%b4%d0%b5%d0%bb%d1%8c-%d0%b2%d0%b0%d1%88%d0%be%d0%b3%d0%be-%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%be%d0%b1%d1%96%d0%bb%d1%8f]]></attributenamed0bcd0bed0b4d0b5d0bbd18cd0b2d0b0d188d0bed0b3d0bed0b0d0b2d182d0bed0bcd0bed0b1d196d0bbd18f>
+		<attributevalued0bcd0bed0b4d0b5d0bbd18cd0b2d0b0d188d0bed0b3d0bed0b0d0b2d182d0bed0bcd0bed0b1d196d0bbd18f><![CDATA[]]></attributevalued0bcd0bed0b4d0b5d0bbd18cd0b2d0b0d188d0bed0b3d0bed0b0d0b2d182d0bed0bcd0bed0b1d196d0bbd18f>
+		<attributeinvariationsd0bcd0bed0b4d0b5d0bbd18cd0b2d0b0d188d0bed0b3d0bed0b0d0b2d182d0bed0bcd0bed0b1d196d0bbd18f><![CDATA[no]]></attributeinvariationsd0bcd0bed0b4d0b5d0bbd18cd0b2d0b0d188d0bed0b3d0bed0b0d0b2d182d0bed0bcd0bed0b1d196d0bbd18f>
+		<attributeisvisibled0bcd0bed0b4d0b5d0bbd18cd0b2d0b0d188d0bed0b3d0bed0b0d0b2d182d0bed0bcd0bed0b1d196d0bbd18f><![CDATA[no]]></attributeisvisibled0bcd0bed0b4d0b5d0bbd18cd0b2d0b0d188d0bed0b3d0bed0b0d0b2d182d0bed0bcd0bed0b1d196d0bbd18f>
+		<attributeistaxonomyd0bcd0bed0b4d0b5d0bbd18cd0b2d0b0d188d0bed0b3d0bed0b0d0b2d182d0bed0bcd0bed0b1d196d0bbd18f><![CDATA[no]]></attributeistaxonomyd0bcd0bed0b4d0b5d0bbd18cd0b2d0b0d188d0bed0b3d0bed0b0d0b2d182d0bed0bcd0bed0b1d196d0bbd18f>
+		<attributenamed0bed0b1d194d0bcd0b4d0b2d0b8d0b3d183d0bdd0b0><![CDATA[%d0%be%d0%b1%d1%94%d0%bc-%d0%b4%d0%b2%d0%b8%d0%b3%d1%83%d0%bd%d0%b0]]></attributenamed0bed0b1d194d0bcd0b4d0b2d0b8d0b3d183d0bdd0b0>
+		<attributevalued0bed0b1d194d0bcd0b4d0b2d0b8d0b3d183d0bdd0b0><![CDATA[]]></attributevalued0bed0b1d194d0bcd0b4d0b2d0b8d0b3d183d0bdd0b0>
+		<attributeinvariationsd0bed0b1d194d0bcd0b4d0b2d0b8d0b3d183d0bdd0b0><![CDATA[no]]></attributeinvariationsd0bed0b1d194d0bcd0b4d0b2d0b8d0b3d183d0bdd0b0>
+		<attributeisvisibled0bed0b1d194d0bcd0b4d0b2d0b8d0b3d183d0bdd0b0><![CDATA[no]]></attributeisvisibled0bed0b1d194d0bcd0b4d0b2d0b8d0b3d183d0bdd0b0>
+		<attributeistaxonomyd0bed0b1d194d0bcd0b4d0b2d0b8d0b3d183d0bdd0b0><![CDATA[no]]></attributeistaxonomyd0bed0b1d194d0bcd0b4d0b2d0b8d0b3d183d0bdd0b0>
+		<attributenamed0bed0b1d194d0bcd0b4d0b2d0b8d0b3d183d0bdd0b0d0bb><![CDATA[%d0%be%d0%b1%d1%94%d0%bc-%d0%b4%d0%b2%d0%b8%d0%b3%d1%83%d0%bd%d0%b0-%d0%bb]]></attributenamed0bed0b1d194d0bcd0b4d0b2d0b8d0b3d183d0bdd0b0d0bb>
+		<attributevalued0bed0b1d194d0bcd0b4d0b2d0b8d0b3d183d0bdd0b0d0bb><![CDATA[]]></attributevalued0bed0b1d194d0bcd0b4d0b2d0b8d0b3d183d0bdd0b0d0bb>
+		<attributeinvariationsd0bed0b1d194d0bcd0b4d0b2d0b8d0b3d183d0bdd0b0d0bb><![CDATA[no]]></attributeinvariationsd0bed0b1d194d0bcd0b4d0b2d0b8d0b3d183d0bdd0b0d0bb>
+		<attributeisvisibled0bed0b1d194d0bcd0b4d0b2d0b8d0b3d183d0bdd0b0d0bb><![CDATA[no]]></attributeisvisibled0bed0b1d194d0bcd0b4d0b2d0b8d0b3d183d0bdd0b0d0bb>
+		<attributeistaxonomyd0bed0b1d194d0bcd0b4d0b2d0b8d0b3d183d0bdd0b0d0bb><![CDATA[no]]></attributeistaxonomyd0bed0b1d194d0bcd0b4d0b2d0b8d0b3d183d0bdd0b0d0bb>
+		<attributenamed180d196d0bad0b2d0b8d0bfd183d181d0bad183><![CDATA[%d1%80%d1%96%d0%ba-%d0%b2%d0%b8%d0%bf%d1%83%d1%81%d0%ba%d1%83]]></attributenamed180d196d0bad0b2d0b8d0bfd183d181d0bad183>
+		<attributevalued180d196d0bad0b2d0b8d0bfd183d181d0bad183><![CDATA[]]></attributevalued180d196d0bad0b2d0b8d0bfd183d181d0bad183>
+		<attributeinvariationsd180d196d0bad0b2d0b8d0bfd183d181d0bad183><![CDATA[no]]></attributeinvariationsd180d196d0bad0b2d0b8d0bfd183d181d0bad183>
+		<attributeisvisibled180d196d0bad0b2d0b8d0bfd183d181d0bad183><![CDATA[no]]></attributeisvisibled180d196d0bad0b2d0b8d0bfd183d181d0bad183>
+		<attributeistaxonomyd180d196d0bad0b2d0b8d0bfd183d181d0bad183><![CDATA[no]]></attributeistaxonomyd180d196d0bad0b2d0b8d0bfd183d181d0bad183>
+		<imageurl><![CDATA[http://regosso-001-site1.ctempurl.com/wordpress/wp-content/uploads/2016/08/407010476_w200_h200_vag_gear_oil_1l_g052145s2.jpg]]></imageurl>
+		<imagepath><![CDATA[H:\root\home\regosso-001\www\germanoil1\wordpress/wp-content/uploads/2016/08/407010476_w200_h200_vag_gear_oil_1l_g052145s2.jpg]]></imagepath>
+		<imagealttext><![CDATA[407010476_w200_h200_vag_gear_oil_1l_g052145s2.jpg]]></imagealttext>
+		<undefined92><![CDATA[Масло, автохімія>Масло трансмісійне]]></undefined92>
+		<slug><![CDATA[407010476_w200_h200_vag_gear_oil_1l_g052145s2.jpg]]></slug>
+		<backorders><![CDATA[yes]]></backorders>
+	</node>
+</data>

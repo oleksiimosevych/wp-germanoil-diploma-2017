@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+  <offers>
+    <offer available="false" id="306470383">
+    <url>http://germanoil.in.ua/p306470383-fara-caddy-2010.html</url>
+    <price>110</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>12281538</categoryId>
+    <picture>http://images.ua.prom.st/440730442_w640_h640_1el010551011_kopiya.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Фара R VW Caddy (2010-2015) Hella 1EL010551021</name>
+    <vendor>Hella</vendor>
+    <vendorCode>1EL010551021</vendorCode>
+    <country_of_origin>Німеччина</country_of_origin>
+    <description>Фара права VW Caddy 2010-2015. Виробник Hella. Артикул 1EL010551021. Тип ламп: H4.</description>
+    <param24 name="Розташування">Права</param24>
+    <param25 name="Тип запчастини">Оригінал</param25>
+    <param26 name="Тип техніки">Легковий автомобіль</param26>
+    <param20 name="Марка">Volkswagen</param20>
+    <param19 name="Модель">Caddy</param19>
+    <param23 name="Сумісність з:">Volkswagen CADDY III (2K 2C) 2004-</param23>
+  </offer>
+    <offer available="false" id="306469877">
+    <url>http://germanoil.in.ua/p306469877-fara-caddy-2010.html</url>
+    <price>110</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>12281538</categoryId>
+    <picture>http://images.ua.prom.st/440721168_w640_h640_1el010551011.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Фара L VW Caddy (2010-2015) Hella 1EL010551011</name>
+    <vendor>Hella</vendor>
+    <vendorCode>1EL010551011</vendorCode>
+    <country_of_origin>Німеччина</country_of_origin>
+    <description>Фара ліва VW Caddy 2010-2015. Виробник Hella. Артикул 1EL010551011. Тип ламп: H4.</description>
+    <param24 name="Розташування">Ліва</param24>
+    <param25 name="Тип запчастини">Оригінал</param25>
+    <param26 name="Тип техніки">Легковий автомобіль</param26>
+    <param20 name="Марка">Volkswagen</param20>
+    <param19 name="Модель">Caddy</param19>
+    <param23 name="Сумісність з:">Volkswagen CADDY III (2K 2C) 2004-</param23>
+  </offer>
+    <offer available="false" id="310465432">
+    <url>http://germanoil.in.ua/p310465432-fara-passat-2005.html</url>
+    <price>99.5</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>12281538</categoryId>
+    <picture>http://images.ua.prom.st/446933230_w640_h640_21419403_kopiya.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Фара R VW Passat B6 (2005-2010) Valeo 088978</name>
+    <vendor>Valeo</vendor>
+    <vendorCode>088978</vendorCode>
+    <country_of_origin>Франція</country_of_origin>
+    <description>Фара права галоген VW Passat B6 2005-2010. Виробник Valeo. Артикул 088978. Тип лампи: H7/H7.</description>
+    <param24 name="Розташування">Права</param24>
+    <param25 name="Тип запчастини">Оригінал</param25>
+    <param26 name="Тип техніки">Легковий автомобіль</param26>
+    <param20 name="Марка">Volkswagen</param20>
+    <param19 name="Модель">Passat</param19>
+    <param23 name="Сумісність з:">Volkswagen PASSAT (3C2) 2005-2010|Volkswagen PASSAT Variant (3C5) 2005-2011</param23>
+    <param22 name="Серія">PASSAT (3C2) 2005-2010</param22>
+  </offer>
+  <offer available="false" id="310459733">
+    <url>http://germanoil.in.ua/p310459733-fara-passat-2005.html</url>
+    <price>99.5</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>12281538</categoryId>
+    <picture>http://images.ua.prom.st/446909746_w640_h640_21419403.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Фара L VW Passat B6 (2005-2010) Valeo 088977</name>
+    <vendor>Valeo</vendor>
+    <vendorCode>088977</vendorCode>
+    <country_of_origin>Франція</country_of_origin>
+    <description>Фара ліва галоген VW Passat B6 2005-2010. Виробник Valeo. Артикул 088977. Тип лампи: H7/H7.</description>
+    <param24 name="Розташування">Ліва</param24>
+    <param25 name="Тип запчастини">Оригінал</param25>
+    <param26 name="Тип техніки">Легковий автомобіль</param26>
+    <param20 name="Марка">Volkswagen</param20>
+    <param19 name="Модель">Passat</param19>
+    <param23 name="Сумісність з:">Volkswagen PASSAT (3C2) 2005-2010|Volkswagen PASSAT Variant (3C5) 2005-2011</param23>
+    <param22 name="Серія">PASSAT (3C2) 2005-2010</param22>
+    </offer>
+    <offer available="false" id="306461748">
+    <url>http://germanoil.in.ua/p306461748-fara-mercedes-vitoviano.html</url>
+    <price>99</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>12281538</categoryId>
+    <picture>http://images.ua.prom.st/440687156_w640_h640_full_1eg246041021.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Фара R Mercedes Vito/Viano W639 (2003-2010) Hella 1EG246041021</name>
+    <vendor>Hella</vendor>
+    <vendorCode>1EG246041021</vendorCode>
+    <country_of_origin>Німеччина</country_of_origin>
+    <description>Фара права Mercedes-Benz Vito/Viano W639 2003-2010. Виробник Hella. Артикул 1EG246041021. Тип лампи: H7/H7/H7</description>
+    <param24 name="Розташування">Права</param24>
+    <param25 name="Тип запчастини">Оригінал</param25>
+    <param26 name="Тип техніки">Легковий автомобіль</param26>
+    <param20 name="Марка">Mercedes-Benz</param20>
+    <param19 name="Модель">Vito</param19>
+    <param23 name="Сумісність з:">Mercedes-Benz VIANO (W639) 2003-|Mercedes-Benz VITO Bus (W639) 2003-|Mercedes-Benz VITO / MIXTO Kasten (W639) 2003-</param23>
+  </offer>
+  <offer available="false" id="306460937">
+    <url>http://germanoil.in.ua/p306460937-fara-mercedes-vitoviano.html</url>
+    <price>99</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>12281538</categoryId>
+    <picture>http://images.ua.prom.st/440677937_w640_h640_45276.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Фара L Mercedes Vito/Viano W639 (2003-2010) Hella 1EG246041011</name>
+    <vendor>Hella</vendor>
+    <vendorCode>1EG246041011</vendorCode>
+    <country_of_origin>Німеччина</country_of_origin>
+    <description>Фара ліва Mercedes-Benz Vito/Viano W639 2003-2010. Виробник Hella. Артикул 1EG246041011. Тип лампи: H7/H7/H7</description>
+    <param24 name="Розташування">Ліва</param24>
+    <param25 name="Тип запчастини">Оригінал</param25>
+    <param26 name="Тип техніки">Легковий автомобіль</param26>
+    <param20 name="Марка">Mercedes-Benz</param20>
+    <param19 name="Модель">Vito</param19>
+    <param23 name="Сумісність з:">Mercedes-Benz VIANO (W639) 2003-|Mercedes-Benz VITO Bus (W639) 2003-|Mercedes-Benz VITO / MIXTO Kasten (W639) 2003-</param23>
+  </offer>
+  <offer available="false" id="306473435">
+    <url>http://germanoil.in.ua/p306473435-fara-caddy-2010.html</url>
+    <price>93.5</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>12281538</categoryId>
+    <picture>http://images.ua.prom.st/440735569_w640_h640_1el010551011_kopiya.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Фара R VW Caddy (2010-2015) TYC 20-12473-052</name>
+    <vendor>TYC</vendor>
+    <vendorCode>20-12473-052</vendorCode>
+    <country_of_origin>Тайвань</country_of_origin>
+    <description>Фара права VW Caddy 2010-2015. Виробник TYC. Артикул 20-12473-052. Тип ламп: H4.</description>
+    <param24 name="Розташування">Права</param24>
+    <param25 name="Тип запчастини">Аналог</param25>
+    <param26 name="Тип техніки">Легковий автомобіль</param26>
+    <param20 name="Марка">Volkswagen</param20>
+    <param19 name="Модель">Caddy</param19>
+    <param23 name="Сумісність з:">Volkswagen CADDY III (2K 2C) 2004-</param23>
+  </offer>
+  <offer available="false" id="306470805">
+    <url>http://germanoil.in.ua/p306470805-fara-caddy-2010.html</url>
+    <price>93.5</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>12281538</categoryId>
+    <picture>http://images.ua.prom.st/440721168_w640_h640_1el010551011.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Фара L VW Caddy (2010-2015) TYC 20-12474-052</name>
+    <vendor>TYC</vendor>
+    <vendorCode>20-12474-052</vendorCode>
+    <country_of_origin>Тайвань</country_of_origin>
+    <description>Фара ліва VW Caddy 2010-2015. Виробник TYC. Артикул 20-12474-052. Тип ламп: H4.</description>
+    <param24 name="Розташування">Ліва</param24>
+    <param25 name="Тип запчастини">Аналог</param25>
+    <param26 name="Тип техніки">Легковий автомобіль</param26>
+    <param20 name="Марка">Volkswagen</param20>
+    <param19 name="Модель">Caddy</param19>
+    <param23 name="Сумісність з:">Volkswagen CADDY III (2K 2C) 2004-</param23>
+  </offer>
+  <offer available="false" id="306468528">
+    <url>http://germanoil.in.ua/p306468528-fara-caddy-2004.html</url>
+    <price>75.5</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>12281538</categoryId>
+    <picture>http://images.ua.prom.st/440715732_w640_h640_full_4411193rldem.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Фара R VW Caddy (2004-2010) Visteon 20-200-01045</name>
+    <vendor>Visteon</vendor>
+    <vendorCode>20-200-01045</vendorCode>
+    <description>Фара права VW Caddy 2004-2010. Виробник Visteon. Артикул 20-201-01045. Тип лампи: H1/H7.</description>
+    <param24 name="Розташування">Права</param24>
+    <param25 name="Тип запчастини">Оригінал</param25>
+    <param26 name="Тип техніки">Легковий автомобіль</param26>
+    <param20 name="Марка">Volkswagen</param20>
+    <param19 name="Модель">Caddy</param19>
+    <param23 name="Сумісність з:">Volkswagen CADDY III (2K 2C) 2004-</param23>
+  </offer>
+  <offer available="false" id="306468148">
+    <url>http://germanoil.in.ua/p306468148-fara-caddy-2004.html</url>
+    <price>75.5</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>12281538</categoryId>
+    <picture>http://images.ua.prom.st/440705294_w640_h640_full_4411193rldem_kopiya.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Фара L VW Caddy (2004-2010) Visteon 20-201-01045</name>
+    <vendor>Visteon</vendor>
+    <vendorCode>20-201-01045</vendorCode>
+    <description>Фара ліва VW Caddy 2004-2010. Виробник Visteon. Артикул 20-201-01045.  Тип лампи: H1/H7.</description>
+    <param24 name="Розташування">Ліва</param24>
+    <param25 name="Тип запчастини">Оригінал</param25>
+    <param26 name="Тип техніки">Легковий автомобіль</param26>
+    <param20 name="Марка">Volkswagen</param20>
+    <param19 name="Модель">Caddy</param19>
+    <param23 name="Сумісність з:">Volkswagen CADDY III (2K 2C) 2004-</param23>
+  </offer>
+  <offer available="false" id="310471246">
+    <url>http://germanoil.in.ua/p310471246-fara-passat-2005.html</url>
+    <price>68</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>12281538</categoryId>
+    <picture>http://images.ua.prom.st/446933230_w640_h640_21419403_kopiya.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Фара R VW Passat B6 (2005-2010) Depo 441-11A7R-LDEM1</name>
+    <vendor>Depo</vendor>
+    <vendorCode>441-11A7R-LDEM1</vendorCode>
+    <country_of_origin>Тайвань</country_of_origin>
+    <description>Фара права галоген VW Passat B6 2005-2010. Виробник Depo. Артикул 441-11A7R-LDEM1. Тип лампи: H7/H7.</description>
+    <param24 name="Розташування">Права</param24>
+    <param25 name="Тип запчастини">Аналог</param25>
+    <param26 name="Тип техніки">Легковий автомобіль</param26>
+    <param20 name="Марка">Volkswagen</param20>
+    <param19 name="Модель">Passat</param19>
+    <param23 name="Сумісність з:">Volkswagen PASSAT (3C2) 2005-2010|Volkswagen PASSAT Variant (3C5) 2005-2011</param23>
+    <param22 name="Серія">PASSAT (3C2) 2005-2010</param22>
+    </offer>
+    <offer available="false" id="310467787">
+    <url>http://germanoil.in.ua/p310467787-fara-passat-2005.html</url>
+    <price>68</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>12281538</categoryId>
+    <picture>http://images.ua.prom.st/446909746_w640_h640_21419403.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Фара L VW Passat B6 (2005-2010) Depo 441-11A7L-LDEM1</name>
+    <vendor>Depo</vendor>
+    <vendorCode>441-11A7L-LDEM1</vendorCode>
+    <country_of_origin>Тайвань</country_of_origin>
+    <description>Фара ліва галоген VW Passat B6 2005-2010. Виробник Depo. Артикул 441-11A7L-LDEM1. Тип лампи: H7/H7.</description>
+    <param24 name="Розташування">Ліва</param24>
+    <param25 name="Тип запчастини">Аналог</param25>
+    <param26 name="Тип техніки">Легковий автомобіль</param26>
+    <param20 name="Марка">Volkswagen</param20>
+    <param19 name="Модель">Passat</param19>
+    <param23 name="Сумісність з:">Volkswagen PASSAT (3C2) 2005-2010|Volkswagen PASSAT Variant (3C5) 2005-2011</param23>
+    <param22 name="Серія">PASSAT (3C2) 2005-2010</param22>
+    </offer>
+    <offer available="false" id="310471396">
+    <url>http://germanoil.in.ua/p310471396-fara-passat-2005.html</url>
+    <price>64.5</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>12281538</categoryId>
+    <picture>http://images.ua.prom.st/446933230_w640_h640_21419403_kopiya.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Фара R VW Passat B6 (2005-2010) TYC 20-0733-052</name>
+    <vendor>TYC</vendor>
+    <vendorCode>20-0733-052</vendorCode>
+    <country_of_origin>Тайвань</country_of_origin>
+    <description>Фара права галоген VW Passat B6 2005-2010. Виробник TYC. Артикул 20-0733-052. Тип лампи: H7/H7.</description>
+    <param24 name="Розташування">Права</param24>
+    <param25 name="Тип запчастини">Аналог</param25>
+    <param26 name="Тип техніки">Легковий автомобіль</param26>
+    <param20 name="Марка">Volkswagen</param20>
+    <param19 name="Модель">Passat</param19>
+    <param23 name="Сумісність з:">Volkswagen PASSAT (3C2) 2005-2010|Volkswagen PASSAT Variant (3C5) 2005-2011</param23>
+  </offer>
+  <offer available="false" id="310471342">
+    <url>http://germanoil.in.ua/p310471342-fara-passat-2005.html</url>
+    <price>64.5</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>12281538</categoryId>
+    <picture>http://images.ua.prom.st/446909746_w640_h640_21419403.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Фара L VW Passat B6 (2005-2010) TYC 20-0734-052</name>
+    <vendor>TYC</vendor>
+    <vendorCode>20-0734-052</vendorCode>
+    <country_of_origin>Тайвань</country_of_origin>
+    <description>Фара ліва галоген VW Passat B6 2005-2010. Виробник TYC. Артикул 20-0734-052. Тип лампи: H7/H7.</description>
+    <param24 name="Розташування">Ліва</param24>
+    <param25 name="Тип запчастини">Аналог</param25>
+    <param26 name="Тип техніки">Легковий автомобіль</param26>
+    <param20 name="Марка">Volkswagen</param20>
+    <param19 name="Модель">Passat</param19>
+    <param23 name="Сумісність з:">Volkswagen PASSAT (3C2) 2005-2010|Volkswagen PASSAT Variant (3C5) 2005-2011</param23>
+    <param22 name="Серія">PASSAT (3C2) 2005-2010</param22>
+    </offer>
+    <offer available="false" id="306462240">
+    <url>http://germanoil.in.ua/p306462240-fara-mercedes-vitoviano.html</url>
+    <price>64</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>12281538</categoryId>
+    <picture>http://images.ua.prom.st/440691078_w640_h640_full_1eg246041021.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Фара R Mercedes Vito/Viano W639 (2003-2010) Depo 440-11240R-LD-EM</name>
+    <vendor>Depo</vendor>
+    <vendorCode>440-11240R-LD-EM</vendorCode>
+    <country_of_origin>Тайвань</country_of_origin>
+    <description>Фара права Mercedes-Benz Vito/Viano W639 2003-2010. Виробник Depo. Артикул 440-11240L-LD-EM. Тип лампи: H7/H7/H7</description>
+    <param24 name="Розташування">Права</param24>
+    <param25 name="Тип запчастини">Аналог</param25>
+    <param26 name="Тип техніки">Легковий автомобіль</param26>
+    <param20 name="Марка">Mercedes-Benz</param20>
+    <param19 name="Модель">Vito</param19>
+    <param23 name="Сумісність з:">Mercedes-Benz VIANO (W639) 2003-|Mercedes-Benz VITO Bus (W639) 2003-|Mercedes-Benz VITO / MIXTO Kasten (W639) 2003-</param23>
+  </offer>
+  <offer available="false" id="306461987">
+    <url>http://germanoil.in.ua/p306461987-fara-mercedes-vitoviano.html</url>
+    <price>64</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>12281538</categoryId>
+    <picture>http://images.ua.prom.st/440677937_w640_h640_45276.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Фара L Mercedes Vito/Viano W639 (2003-2010) Depo 440-11240L-LD-EM</name>
+    <vendor>Depo</vendor>
+    <vendorCode>440-11240L-LD-EM</vendorCode>
+    <country_of_origin>Тайвань</country_of_origin>
+    <description>Фара ліва Mercedes-Benz Vito/Viano W639 2003-2010. Виробник Depo. Артикул 440-11240L-LD-EM. Тип лампи: H7/H7/H7</description>
+    <param24 name="Розташування">Ліва</param24>
+    <param25 name="Тип запчастини">Аналог</param25>
+    <param26 name="Тип техніки">Легковий автомобіль</param26>
+    <param20 name="Марка">Mercedes-Benz</param20>
+    <param19 name="Модель">Vito</param19>
+    <param23 name="Сумісність з:">Mercedes-Benz VIANO (W639) 2003-|Mercedes-Benz VITO Bus (W639) 2003-|Mercedes-Benz VITO / MIXTO Kasten (W639) 2003-</param23>
+  </offer>
+  <offer available="false" id="306467974">
+    <url>http://germanoil.in.ua/p306467974-fara-caddy-2004.html</url>
+    <price>52.5</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>12281538</categoryId>
+    <picture>http://images.ua.prom.st/440711599_w640_h640_full_4411193rldem.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Фара R VW Caddy (2004-2010) TYC 20-0759-252</name>
+    <vendor>TYC</vendor>
+    <vendorCode>20-0759-252</vendorCode>
+    <country_of_origin>Тайвань</country_of_origin>
+    <description>Фара права VW Caddy 2004-2010. Виробник TYC. Артикул 20-0759-252.  Тип лампи: H1/H7.</description>
+    <param24 name="Розташування">Права</param24>
+    <param25 name="Тип запчастини">Аналог</param25>
+    <param26 name="Тип техніки">Легковий автомобіль</param26>
+    <param20 name="Марка">Volkswagen</param20>
+    <param19 name="Модель">Caddy</param19>
+    <param23 name="Сумісність з:">Volkswagen CADDY III (2K 2C) 2004-</param23>
+  </offer>
+  <offer available="false" id="306467763">
+    <url>http://germanoil.in.ua/p306467763-fara-caddy-2004.html</url>
+    <price>52.5</price>
+    <currencyId>EUR</currencyId>
+    <categoryId>12281538</categoryId>
+    <picture>http://images.ua.prom.st/440705294_w640_h640_full_4411193rldem_kopiya.jpg</picture>
+    <pickup>true</pickup>
+    <delivery>true</delivery>
+    <name>Фара L VW Caddy (2004-2010) TYC 20-0760-252</name>
+    <vendor>TYC</vendor>
+    <vendorCode>20-0760-252</vendorCode>
+    <country_of_origin>Тайвань</country_of_origin>
+    <description>Фара ліва VW Caddy 2004-2010. Виробник TYC. Артикул 20-0760-252. Тип лампи: H1/H7.</description>
+    <param24 name="Розташування">Ліва</param24>
+    <param25 name="Тип запчастини">Аналог</param25>
+    <param26 name="Тип техніки">Легковий автомобіль</param26>
+    <param20 name="Марка">Volkswagen</param20>
+    <param19 name="Модель">Caddy</param19>
+    <param23 name="Сумісність з:">Volkswagen CADDY III (2K 2C) 2004-</param23>
+  </offer>
+  </offers>

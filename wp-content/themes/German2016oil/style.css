@@ -1,0 +1,933 @@
+﻿/**
+
+ * Theme Name: German2016oil
+
+ * Template: freestore
+
+ */
+
+@import url('../freestore/style.css');
+
+
+
+/*spisok*/
+
+.woocommerce .woocommerce-ordering select, .woocommerce-page .woocommerce-ordering select{
+
+      width:100% !important;
+
+}
+
+
+
+/* Make sure select elements fit in widgets */
+
+.widget select {
+
+	/*UWAGA. NE TRE UPDATE! TO DLA WYPAD SPYSKU*/
+
+	width: 100%;
+
+}
+
+.widget-area .widget .search-field {
+
+    width: 100%;
+
+    box-sizing: border-box;
+
+    padding: 5px 8px;
+
+}
+
+
+
+ul.products.list li.product h3, 
+
+ul.products.list li.product div[itemprop="description"],
+
+ ul.products.list li.product .price,
+
+  ul.products.list li.product .gridlist-buttonwrap {
+
+    width: 65% !important;
+
+    float: left !important;
+
+	padding: 10px;
+
+	text-align: justify;
+
+}
+
+-
+
+.woocommerce ul.products li.product a img {
+
+    width: 250px !important;
+
+    height: 250px !important;
+
+    margin: 0 0 1em;
+
+}
+
+
+
+html{min-width: 350px;}
+
+
+
+/*RAMY*/
+
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product{
+
+	/*background-color: red;*/
+
+           width: 190px !important;
+
+           height: 350px;
+
+       
+
+}
+
+
+
+/*TEXT UP*/
+
+.woocommerce .woocommerce-breadcrumb, .woocommerce-page .woocommerce-breadcrumb{
+
+    padding: 0px 70px 0px;
+
+}
+
+/*kartynka dla toggle list grid*/
+
+.woocommerce ul.products li.product a img{
+
+    width: 190px !important;
+
+    height: 190px !important;
+
+
+
+}
+
+.woocommerce div.product div.images img {
+
+    display: block;
+
+    width: 250px;
+
+    height: 250px;
+
+    box-shadow: none;
+
+}
+
+
+
+.woocommerce .cart .button, .woocommerce .cart input.button {
+
+    float: left !important;
+
+    padding: 10px !important;
+
+}
+
+
+
+/*search button down*/
+
+ .search-block, .search-submit{
+
+      margin-top: 10px;
+
+}
+
+
+
+/*remove EDIT*/
+
+/*.post-edit-link{display:none;}*/
+
+
+
+/**/
+
+/*.main-navigation ul ul li:last-child a,
+
+ .main-navigation ul ul li a:hover{
+
+ 	color:red !important; background-color:white !important;
+
+ 	}
+
+*/
+
+
+
+.site-footer-bottom-bar{
+
+    display:none !important;
+
+}
+
+/*ryska vpala na piksel. pidnimemo*/
+
+.woocommerce .woocommerce-result-count, .woocommerce-page .woocommerce-result-count{
+
+	margin: 10px 0px 0px !important;
+
+	padding: 16px 0 16px !important;
+
+}
+
+
+
+/*poshuk knopka vnyz*/
+
+button, input[type="button"], input[type="reset"], input[type="submit"]{
+
+	    margin-top: 11px;
+
+}
+
+/*napis*/
+
+.woocommerce ul.products li.product h3, .woocommerce-page ul.products li.product h3{
+
+	    margin-top: 23px !important;
+
+}
+
+
+
+h3{
+
+    margin: 0;
+
+    padding: 0;
+
+    font-size: 18px;
+
+    font-weight: normal;
+
+    color: #2f93d4;
+
+}
+
+ul.products li.product h3, .woocommerce-page ul.products li.product h3 {
+
+    font-size: 13px !important;
+
+}
+
+/*filtr field*/
+
+.widget-area .widget-title {
+
+    padding: 0 0 5px !important;
+
+    margin: 0px 0 5px !important;
+
+    font-size:20px;
+
+    font: bold;
+
+}
+
+.widget-area .widget {
+
+    margin: 0 0 5px !important;
+
+    box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.1) inset;
+
+    padding: 5px !important;
+
+}
+
+/*product name on 1product page*/
+
+.woocommerce #content div.product .product_title,
+
+ .woocommerce div.product .product_title,
+
+  .woocommerce-page #content div.product .product_title,
+
+   .woocommerce-page div.product .product_title{
+
+	margin: 0;
+
+    padding: 0;
+
+    font-size: 24px;
+
+    font-weight: normal;
+
+    color: #2f93d4;
+
+}
+
+/*розмір усіх шрифтів*/
+
+body, button, input, select, textarea {
+
+	font-size: 13px !important;
+
+}
+
+/*blue main page*/
+
+.woocommerce .woocommerce-breadcrumb a {
+
+    color: #29a6e5 !important;
+
+}
+
+/*submenu*/
+
+.main-navigation ul ul a{
+    /*color:white;*/
+    background-color: black !important;
+	height:50px !important;
+	padding: 10px !important;
+
+}
+
+/*absolute position*/
+
+.main-navigation ul ul{
+	padding-left: 10px !important;
+	top:60px !important;
+	    background-color: black !important;
+
+}
+
+/**/
+
+.main-navigation li{
+
+	height:50px;
+
+}
+
+/*rysky i menu*/
+
+.main-navigation li a{
+
+	padding: 34px 20px 10px !important;
+
+}
+
+.main-navigation a{
+
+	padding: 17px 20px 10px !important;
+
+}
+
+/*TITLE*/
+
+.site-title {
+
+    padding: 10px 0 0px !important;
+
+}
+
+/*CART*/
+
+.header-cart {
+
+    padding-top: 34px;
+
+}
+
+/*palka vnizu*/
+
+.main-navigation .current_page_item > a,
+
+ .main-navigation .current-menu-item > a,
+
+  .main-navigation .current_page_ancestor > a {
+
+    box-shadow: 0 -1px 0 #000 inset !important;
+
+}
+
+/*submenu margin vidstup*/
+
+.widget-area .widget ul {
+
+    margin: 15px !important;
+
+    padding: 0;
+
+}
+
+/*DODANO KNOPKA*/
+
+.woocommerce #review_form #respond .form-submit input,
+
+ .woocommerce-page #review_form #respond .form-submit input,
+
+  .woocommerce ul.products li.product a.add_to_cart_button,
+
+   .woocommerce-page ul.products li.product a.add_to_cart_button {
+
+    border: 1px solid rgba(0, 0, 0, 0.1);
+
+    width: 90% !important;
+
+    }
+
+/********************************************09************09****************16***********************************************************/
+
+/*                                working with CHECKOUT              */
+
+/*ЗАБРАТИ ДОДАТКОВУ ДОСТАВКУ*/
+
+ .woocommerce-checkout .checkout .col-2 h3#ship-to-different-address {
+
+    /*display: none !important;*/
+
+}
+
+/*okruglimo inputy*/
+
+input{
+
+	border-radius: 0 0 3px 3px !important;
+
+	height:30px !important;
+
+}
+
+/*dostavki zboku ne treba*/
+
+/*tr.shipping{
+
+	display: none;
+
+}*/
+
+/*zabrati pola adres, nom budinku, posht kod, NAZVU KOMPANII*/
+
+/*#billing_postcode, #billing_address_2, #billing_address_1, #billing_company{display: none;}
+
+*//*oplatu delete*/
+
+/*.wc_payment_methods ,.payment_methods ,.methods{
+
+	display: none;
+
+}*/
+
+/*vashe zamovlennia no margin*/
+
+.woocommerce #order_review_heading, .woocommerce-page #order_review_heading{
+
+	    border-bottom: 0;
+
+    padding: 20px 20px 0;
+
+    width: 80% !important;
+
+    margin: 0px 0 0 !important; 
+
+    float: left !important;
+
+}
+
+/*vnyz zamovlennia*/
+
+.woocommerce #order_review, .woocommerce-page #order_review {
+
+    border-top: 0;
+
+    padding: 20px 20px 20px;
+
+    width: 80% !important;
+
+    float: left !important;
+
+}
+
+/*platizni dani checkout*/
+
+.woocommerce #customer_details, .woocommerce-page #customer_details {
+
+    width: 90% !important;
+    padding: 5px !important;
+
+}
+
+/*****************13*****09******16***********************checkout*********************************************************************************************/
+
+.woocommerce ul#shipping_method {
+
+    width: 120px !important;
+
+}
+
+
+
+/*************14********09*****16*******************************************/
+
+/*тепер мій плагін прибирає повністю код виводу цих полів*/
+
+/*input#billing_company, input#billing_address_1,input#billing_address_2,input#billing_postcode{display:none !important;}*/
+
+
+
+.cart_totals calculated_shipping{display:none !important; }
+
+
+
+div.calculated_shipping shop_table shipping{display:none !important;}
+
+
+
+/*************15***************************09************************16**************************/
+
+/*text of add to cart reduce*/
+
+.woocommerce ul.products li.product a.add_to_cart_button, .woocommerce-page ul.products li.product a.add_to_cart_button {
+
+    font-size: 10px !important;
+
+    width: 140px !important;
+
+    border-radius: 3px !important;
+
+}
+
+
+/*red color for instock -1000 but  products*/
+
+li.last>div a.ajax_add_to_cart{
+
+	font-size: 10px !important;
+
+    width:175px !important;
+
+}
+
+/*page/pages/results of search - delete from pages*/
+
+nav.woocommerce-breadcrumb{
+
+	display: none;
+
+}
+
+/*NARESHTI URRA! metody dostavki na storinci koshika zabrali!!*/
+
+.woocommerce-page .cart-collaterals .cart_totals .shop_table tbody tr.shipping{
+
+	display: none !important;
+
+}
+
+/* promiznyj pidsumok zabrati??*/
+
+.woocommerce-page .cart-collaterals .cart_totals .shop_table tbody tr.cart-subtotal{
+
+	display: none !important;
+
+}
+
+/*radiobuttons*/
+
+.woocommerce ul#shipping_method li input {
+
+    margin-top: 0px !important;
+
+    margin-bottom: 0px !important;
+
+    width: 24px !important;
+
+    height: 16px !important;
+
+}
+
+
+
+.scroll-back-to-top-wrapper.show {
+
+    color: #2f93d4 !important;
+
+    background-color: rgba(0, 0, 0, 0.2) !important;
+
+}
+
+/************************16************09********16***********/
+
+/*radiobuttons on payment methods*/
+
+.woocommerce-checkout #payment ul.payment_methods li input{
+
+    margin: 0 1em 0 0;
+
+    width: 30px;
+
+    height: 14px !important;
+
+}
+
+/*rememeberme butoon position*/
+
+div#customer_login .col-1 .login .form-row .inline .woocommerce-Input--checkbox{
+
+	width: 30px;
+
+    height: 14px !important;
+
+}
+
+/*buttons on registration position changes*/
+
+div#customer_login .col-2 .register .form-row .woocommerce-Button{
+
+	float: right; !important;
+
+}
+
+/***19*************************09*********************16***************************************/
+
+/*prodano*/
+
+hr#soldout {
+
+height: 5px !important;
+
+width: 270px !important;
+
+background-color: #D13939 !important;
+
+border: 0 !important;
+
+margin-top: -100px !important;
+
+margin-bottom: 94px !important;
+
+margin-left: -57px !important;
+
+-webkit-transform: rotate(134deg) !important;
+
+-moz-transform: rotate(134deg)!important;
+
+-ms-transform: rotate(134deg)!important;
+
+-o-transform: rotate(134deg)!important;
+
+}
+
+/*kartinki dla peregladu tavaru*/
+
+div.images .thumbnails .zoom .attachment-shop_thumbnail{
+
+    width:100px !important;
+
+    height: 150px !important;  
+
+}
+
+/*hover menu*/
+
+.menu .menu-item:hover{
+
+    color: #99a6e5 !important;
+
+}
+
+/*menu bokove ne vipadaje vot*/
+
+.menu-dropdown-btn{display:none; }
+
+
+
+/********************22**9***16****/
+
+pre{
+
+	font-family: sans-serif;
+
+    background: inherit;
+
+    font-size: inherit;
+
+    line-height: inherit;
+
+    margin-bottom: inherit;
+
+    max-width: inherit;
+
+    overflow: inherit;
+
+    padding: inherit; 
+
+}
+
+
+
+.gridlist-buttonwrap .button{
+
+    font-size: 10px !important;   
+
+
+
+}
+
+/*.shipping_method_0_nova_poshta_shipping_method > */
+body{min-width: 1143px !important;}
+/********04/10/16********************/
+div#order_review{float: left !important;}
+
+li#nav_menu-3{width:100% !important;}
+
+div.site-topbar-left{display: none !important;}
+div.site-header-topbar{
+    display:block;
+    height: 90px;
+    width: 100%; 
+    background-color: black;
+    position: fixed;
+    z-index: 100;
+
+}
+div.site-container{
+    width: 100%; 
+    margin-top:100px;
+}
+div.site-branding{
+    margin-top: -90px !important;
+    position: fixed;
+    z-index: 200;
+    margin:0px;
+}
+
+div.header-cart a{
+    width: 200px;
+    height: 50px;
+}
+/*CART*/
+div.header-cart{
+    margin-top: -70px !important;
+    position: fixed;
+    z-index: 600;
+    /*margin-left: 77%; */
+    float: right !important;
+}
+/*MENU!!*/
+nav.main-navigation{
+    margin-top: -75px !important;
+    position: fixed;
+    z-index: 400;
+    width: 100%;
+    margin-left: 20%;
+    /*color: white ;*/
+
+}
+nav.main-navigation ul li a{
+    color: white !important ;
+}
+
+/*mini button to menu*/
+span.header-menu-button{
+    /*position: fixed;*/
+    margin-top: -13px;
+    z-index: 1500;
+    width:100px;
+    height:30px;
+
+}
+div#container, div#secondary{margin-top: -100px !important;}
+/*tel up*/
+div.site-topbar-right{
+    position: fixed;
+    width: 200px;
+    margin-left: 50%;
+    margin-top: -110px !important;
+    z-index: 1000;
+}
+a.header-cart-contents{
+    color: white !important;
+    height: 200px;
+    font-size: 20px !important;
+    margin-top: -115px !important;
+
+}
+div.header-cart{
+    margin-top: -105px !important;
+    margin-left: 900px !important;
+    width: 400px !important;
+}
+div.header-cart a{font-size: 25px !important;}
+
+h2.site-description{
+    color: white !important;
+}
+
+/****05.10.16*****/
+.phones{
+    z-index: 600;
+    position: fixed;
+    width: 440px !important;
+    height: 20px;
+
+    margin-left: 30% !important;
+    margin-top: -98px;
+    color: white;
+
+    /*margin-top: -115px !important;*/
+    z-index: 1100;   
+
+}
+.telephone{
+    margin-left: 5px;
+}
+.phonewithimg{
+    float: left;
+    margin-left: 5px;
+}
+img.operator-icon{
+    float:left;
+    width:16px;
+    height: 16px;
+}
+div.content-area{
+    margin-top: -100px !important;
+}
+
+i.fa-phone{display: none !important;}
+
+
+/*current menu position */
+
+ul#primary-menu li.current-menu-parent > a{
+    color: #29a6e5 !important;   
+}
+/*current sub meny item position blued)*/
+nav.main-navigation ul li.current-menu-item a{
+    color: #29a6e5 !important ;
+}
+/*if we are on the current submenu*/
+nav.main-navigation ul li.current-menu-item a:hover{
+    color: #99a6e5 !important ;
+}
+/*hover about submenu items*/
+nav.main-navigation ul li.menu-item a:hover{
+    color: #99a6e5 !important ;
+}
+
+/*div.blockUI, div.blockOverlay{display: none !important;}*/
+
+/*11/10/16*/
+/*zabraty vidstup miz dostavkoju i adresoju*/
+.woocommerce #customer_details .col-2, .woocommerce-page #customer_details .col-2{
+    border-top: 0px solid rgba(0, 0, 0, 0) !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+/*zabraty vidstup pered VSIOHO*/
+.woocommerce-page table.shop_table {
+    margin: 0px 0 30px !important;
+}
+
+
+.woocommerce-error, .woocommerce-info, .woocommerce-message{
+        margin: 0px 0 0.5em!important;
+}
+
+
+.wc_payment_methods{
+    display:none;
+}
+#alex_pay1{
+    margin-top: 5px;
+}
+
+span.onsale{
+    width:105px !important;
+    /*background-color: red !important;*/
+    color: yellow !important;
+}
+
+
+
+/*********************************************/
+/*.oneclickbuttonproceed{float:left !important;}
+.proceedbuttonmy{float:left !important;}*/
+/*.oneclickbuttonproceed,.proceedbuttonmy{margin-left: 40px !important;}*/*/
+
+.cart_totals table,.order-total {width:500px !important;}
+.wc-proceed-to-checkout,.cart_totals {width:500px !important;}
+.cart_totals{width:480px !important;}
+ul.product_list_widget li a span{width:200px !important;}
+/*********************************************************************/
+
+
+
+div#sposoby_dostavki{
+    position: absolute;
+    /* float: left !important; */
+    margin-left: 74%;
+    margin-top: -50%;
+}
+
+/**031216**/
+#ship-to-different-address-checkbox{display:none !important;}
+
+/*05/12/16**/
+ul.products> li.outofstock> a.wc_quick_buy_button{
+    width: 80%;
+
+/*//    margin-right: 7px !important;*/
+    /*font-size: 7pt !important;*/
+	font-color: red !important;
+	/*margin-right: 10px !important;}*/
+}
+ul.grid> li.outofstock> div{
+    width: 80% ;
+}
+ul.products >li.outofstock > div.quick_buy_container> a{
+	width: 71% !important;
+
+}
+
+li.outofstock> div >div> a.button{background-color: red !important;}
+/*red color for outofstock products*/
+li.outofstock>div > a.button{background-color: red !important;
+		width:90% !important;
+		}
+li.outofstock>div a{
+
+	font-color: red !important;
+	    /*margin: 0;*/
+    font-size: 11px !important;
+    font-color:white  !important;
+/*
+    float: left !important;
+
+    margin-top: 8px !important;
+
+    width: 145px !important;
+
+    border-radius: 3px !important;
+*/
+	
+
+}
+#place_order{background-color: #29a6e5 !important;}
+.single_add_to_cart_button, button, a.button.wc-forward {background-color: #29a6e5 !important;}
+
+li.product-category div {display: none !important;}
+
+
+div.widget_shopping_cart_content p a {width:98% !important; margin-left: -2 px !important;}
+
+
+
+

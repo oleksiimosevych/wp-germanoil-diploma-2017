@@ -1,0 +1,32 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Short description.
+msgid "A simple back button added to all post types edit page. You can filter and navigate to posts lists without worrying about updating the post and lose t"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "A simple back button added to all post types edit page. You can filter and navigate to posts lists without worrying about updating the post and lose the posts before."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload <code>back-button.zip</code> to the <code>/wp-content/plugins/</code> directory and extract"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "This section describes how to install the plugin and get it working."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "e.g."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid ""
+"v.0\n"
+"official release"
+msgstr ""

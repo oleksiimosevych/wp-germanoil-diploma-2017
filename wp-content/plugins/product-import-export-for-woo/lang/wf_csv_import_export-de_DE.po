@@ -1,0 +1,585 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Product-Import-Export-Basic\n"
+"POT-Creation-Date: 2016-06-13 15:19+0530\n"
+"PO-Revision-Date: 2016-06-13 15:33+0530\n"
+"Last-Translator: \n"
+"Language-Team: HikeForce <support@hikeforce.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de_DE\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\basicwordpress\\wp-content\\plugins\n"
+"X-Poedit-SearchPath-0: product-import-export-for-woo\n"
+
+#: product-import-export-for-woo/product-csv-import-export.php:59
+msgid "Import Export"
+msgstr ""
+
+#: product-import-export-for-woo/product-csv-import-export.php:60
+msgid "Premium Upgrade"
+msgstr ""
+
+#: product-import-export-for-woo/product-csv-import-export.php:61
+msgid "Support"
+msgstr ""
+
+#: product-import-export-for-woo/product-csv-import-export.php:78
+msgid "Successfully uploaded via FTP."
+msgstr "Avec succès téléchargé via FTP."
+
+#: product-import-export-for-woo/product-csv-import-export.php:81
+msgid "Error while uploading via FTP."
+msgstr ""
+
+#: product-import-export-for-woo/product-csv-import-export.php:92
+msgid ""
+"Did this plugin work for you?&nbsp; Please rate and contact us at "
+"<i>support@hikeforce.com</i> to get $10 off on your next purchase."
+msgstr ""
+
+#: product-import-export-for-woo/product-csv-import-export.php:93
+msgid "Review Now!"
+msgstr ""
+
+#: product-import-export-for-woo/product-csv-import-export.php:145
+msgid "Import <strong>products</strong> to your store via a csv file."
+msgstr ""
+
+#: product-import-export-for-woo/includes/class-wf-prodimpexpcsv-admin-screen.php:22
+msgid ""
+"Product CSV Import Export requires the function <code>mb_detect_encoding</"
+"code> to import and export CSV files. Please ask your hosting provider to "
+"enable this function."
+msgstr ""
+
+#: product-import-export-for-woo/includes/class-wf-prodimpexpcsv-admin-screen.php:30
+msgid "Product Im-Ex"
+msgstr ""
+
+#: product-import-export-for-woo/includes/class-wf-prodimpexpcsv-ajax-handler.php:36
+#, php-format
+msgid "Failed resize: %s is an invalid image ID."
+msgstr ""
+
+#: product-import-export-for-woo/includes/class-wf-prodimpexpcsv-ajax-handler.php:39
+msgid "Your user account doesn't have permission to resize images"
+msgstr ""
+
+#: product-import-export-for-woo/includes/class-wf-prodimpexpcsv-ajax-handler.php:44
+#, php-format
+msgid "The originally uploaded image file cannot be found at %s"
+msgstr ""
+
+#: product-import-export-for-woo/includes/class-wf-prodimpexpcsv-ajax-handler.php:53
+msgid "Unknown failure reason."
+msgstr ""
+
+#: product-import-export-for-woo/includes/class-wf-prodimpexpcsv-ajax-handler.php:58
+#, php-format
+msgid "&quot;%1$s&quot; (ID %2$s) was successfully resized in %3$s seconds."
+msgstr ""
+
+#: product-import-export-for-woo/includes/class-wf-prodimpexpcsv-ajax-handler.php:65
+#, php-format
+msgid ""
+"&quot;%1$s&quot; (ID %2$s) failed to resize. The error message was: %3$s"
+msgstr ""
+
+#: product-import-export-for-woo/includes/class-wf-prodimpexpcsv-system-status-tools.php:22
+msgid "Delete Products"
+msgstr ""
+
+#: product-import-export-for-woo/includes/class-wf-prodimpexpcsv-system-status-tools.php:23
+msgid "Delete ALL products"
+msgstr ""
+
+#: product-import-export-for-woo/includes/class-wf-prodimpexpcsv-system-status-tools.php:24
+msgid "This tool will delete all products allowing you to start fresh."
+msgstr ""
+
+#: product-import-export-for-woo/includes/class-wf-prodimpexpcsv-system-status-tools.php:28
+msgid "Delete Variations"
+msgstr ""
+
+#: product-import-export-for-woo/includes/class-wf-prodimpexpcsv-system-status-tools.php:29
+msgid "Delete ALL variations"
+msgstr ""
+
+#: product-import-export-for-woo/includes/class-wf-prodimpexpcsv-system-status-tools.php:30
+msgid "This tool will delete all variations allowing you to start fresh."
+msgstr ""
+
+#: product-import-export-for-woo/includes/class-wf-prodimpexpcsv-system-status-tools.php:34
+msgid "Delete Orphans"
+msgstr ""
+
+#: product-import-export-for-woo/includes/class-wf-prodimpexpcsv-system-status-tools.php:35
+msgid "Delete orphaned variations"
+msgstr ""
+
+#: product-import-export-for-woo/includes/class-wf-prodimpexpcsv-system-status-tools.php:36
+msgid "This tool will delete variations which have no parent."
+msgstr ""
+
+#: product-import-export-for-woo/includes/class-wf-prodimpexpcsv-system-status-tools.php:62
+#, php-format
+msgid "%d Products Deleted"
+msgstr ""
+
+#: product-import-export-for-woo/includes/class-wf-prodimpexpcsv-system-status-tools.php:84
+#: product-import-export-for-woo/includes/class-wf-prodimpexpcsv-system-status-tools.php:99
+#, php-format
+msgid "%d Variations Deleted"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-csv-parser.php:235
+#, php-format
+msgid "> Row %s - preparing for merge."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-csv-parser.php:240
+msgid "> > Cannot merge without id or sku. Importing instead."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-csv-parser.php:258
+#, php-format
+msgid "> > Skipped. Cannot find product with sku %s. Importing instead."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-csv-parser.php:265
+#, php-format
+msgid "> > Found product with ID %s."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-csv-parser.php:276
+#, php-format
+msgid "> Row %s - preparing for import."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-csv-parser.php:280
+msgid "> > Skipped. No post_title set for new product."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-csv-parser.php:281
+msgid "No post_title set for new product."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-csv-parser.php:284
+msgid "> > Skipped. No parent set for new variation product."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-csv-parser.php:286
+msgid "No parent set for new variation product."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-csv-parser.php:477
+#, php-format
+msgid "> > Skipping taxonomy \"%s\" - it does not exist."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-csv-parser.php:486
+#, php-format
+msgid "> > > Product type \"%s\" not allowed - using simple."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-csv-parser.php:532
+#: product-import-export-for-woo/includes/importer/class-wf-csv-parser.php:557
+msgid "> > ("
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-csv-parser.php:597
+#: product-import-export-for-woo/includes/importer/class-wf-csv-parser.php:695
+#, php-format
+msgid "> > Failed to import term %s %s"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-csv-parser.php:646
+#, php-format
+msgid "> > Attribute taxonomy \"%s\" does not exist. Adding it. Nicename: %s"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-csv-parser.php:654
+#, php-format
+msgid "> > Attribute taxonomy %s already exists in DB."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-csv-parser.php:693
+#, php-format
+msgid "> > Inserted Raw Term %s ID = %s"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-csv-parser.php:699
+#, php-format
+msgid "> > Raw Term %s ID = %s"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:82
+msgid "Error with handle_upload!"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:107
+msgid "Row"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:108
+msgid "SKU"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:109
+msgid "Product"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:110
+msgid "Status Msg"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:203
+msgid "AJAX Error"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:303
+#, php-format
+msgid ""
+"The resize request was abnormally terminated (ID %s). This is likely due to "
+"the image exceeding available memory or some other type of fatal error."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:308
+msgid "thumbnails regenerated"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:346
+msgid "Error finding uploaded file!"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:411
+msgid "Step 1..."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:416
+msgid "Step 2..."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:431
+msgid "Finalizing..."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:437
+msgid "Linking upsells..."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:446
+msgid "Linking crosssells..."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:453
+msgid "Finished. Import complete."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:513
+msgid "Map to fields are pre-selected based on your last import. <a href=\""
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:543
+msgid "Processing products."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:555
+msgid "Finished processing products."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:570
+msgid "Parsing products CSV."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:576
+msgid "Finished parsing products CSV."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:618
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:635
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:722
+msgid "Product already processed"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:723
+msgid "> Post ID already processed. Skipping."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:729
+msgid "Skipping auto-draft"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:730
+msgid "> Skipping auto-draft."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:744
+#, php-format
+msgid "> &#8220;%s&#8221;"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:750
+msgid "Importing post ID conflicts with an existing post ID"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:751
+#, php-format
+msgid "> &#8220;%s&#8221; ID already exists."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:759
+msgid "Post is not a product"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:760
+#, php-format
+msgid "> &#8220;%s&#8221; is not a product."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:770
+#, php-format
+msgid "> Merging post ID %s."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:833
+msgid "Failed to update product"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:834
+#, php-format
+msgid "> Failed to update product %s"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:838
+msgid "> Merged post data: "
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:867
+#, php-format
+msgid "> Inserting %s"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:889
+msgid "Failed to import product"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:890
+#, php-format
+msgid "Failed to import product &#8220;%s&#8221;"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:896
+#, php-format
+msgid "> Inserted - post ID is %s."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:994
+#, php-format
+msgid "> > Image exists - skipping %s"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:1024
+#, php-format
+msgid "> > Importing image \"%s\""
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:1039
+#, php-format
+msgid "> > Imported image \"%s\""
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:1054
+#, php-format
+msgid "> > Error importing image \"%s\""
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:1061
+msgid "> > Images set"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:1114
+#, php-format
+msgid "> Finished merging post ID %s."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:1117
+#, php-format
+msgid "> Finished importing post ID %s."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:1183
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:1207
+msgid "Invalid file type"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:1190
+msgid "Local image did not exist!"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:1220
+#, php-format
+msgid "> > Inserted image attachment \"%s\""
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:1285
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:1399
+msgid "Import"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/class-wf-prodimpexpcsv-product-import.php:1399
+msgid "Merge Products"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/views/html-wf-import-greeting.php:20
+msgid ""
+"You can import products (in CSV format) in to the shop using any of below "
+"methods."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/views/html-wf-import-greeting.php:23
+msgid ""
+"Before you can upload your import file, you will need to fix the following "
+"error:"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/views/html-wf-import-greeting.php:31
+msgid "Method 1: Select a file from your computer"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/views/html-wf-import-greeting.php:37
+#, php-format
+msgid "Maximum size: %s"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/views/html-wf-import-greeting.php:41
+msgid "Delimiter"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/views/html-wf-import-greeting.php:45
+msgid "Merge empty cells"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/views/html-wf-import-greeting.php:46
+msgid ""
+"Check this box to merge empty cells - otherwise (when merging) the empty "
+"cells will be ignored when importing things such as attributes."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/views/html-wf-import-options.php:7
+msgid "Map Fields"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/views/html-wf-import-options.php:8
+msgid "Here you can map your imported columns to product data fields."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/views/html-wf-import-options.php:12
+msgid "Map to"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/views/html-wf-import-options.php:13
+msgid "Column Header"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/views/html-wf-import-options.php:14
+msgid "Evaluation Field"
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/views/html-wf-import-options.php:16
+msgid ""
+"Assign constant value HikeFoce to post_author:</br>=HikeFoce</br>Add $5 to "
+"Price:sale_price:</br>+5</br>Reduce $5 to Price:sale_price:</br>-5</"
+"br>Multiple 1.05 to Price:sale_price:</br>*1.05</br>Divide Price:sale_price "
+"by 2:</br>/2</br>Append a value By HikeFoce to post_title:</br>&By HikeFoce</"
+"br>Prepend a value HikeFoce to post_title:</br>&HikeFoce [VAL]."
+msgstr ""
+
+#: product-import-export-for-woo/includes/importer/views/html-wf-import-options.php:95
+msgid "Do not import"
+msgstr ""
+
+#: product-import-export-for-woo/includes/views/html-wf-admin-screen.php:4
+msgid "Product Import / Export"
+msgstr ""
+
+#: product-import-export-for-woo/includes/views/export/html-wf-export-products.php:2
+msgid "Export Product in CSV Format:"
+msgstr ""
+
+#: product-import-export-for-woo/includes/views/export/html-wf-export-products.php:3
+msgid ""
+"Export and download your products in CSV format. This file can be used to "
+"import products back into your Woocommerce shop."
+msgstr ""
+
+#: product-import-export-for-woo/includes/views/export/html-wf-export-products.php:9
+msgid "Offset"
+msgstr ""
+
+#: product-import-export-for-woo/includes/views/export/html-wf-export-products.php:12
+msgid "0"
+msgstr ""
+
+#: product-import-export-for-woo/includes/views/export/html-wf-export-products.php:17
+msgid "Limit"
+msgstr ""
+
+#: product-import-export-for-woo/includes/views/export/html-wf-export-products.php:20
+msgid "Unlimited"
+msgstr ""
+
+#: product-import-export-for-woo/includes/views/export/html-wf-export-products.php:25
+msgid "Columns"
+msgstr ""
+
+#: product-import-export-for-woo/includes/views/export/html-wf-export-products.php:29
+msgid "Column"
+msgstr ""
+
+#: product-import-export-for-woo/includes/views/export/html-wf-export-products.php:32
+msgid "Column Name"
+msgstr ""
+
+#: product-import-export-for-woo/includes/views/export/html-wf-export-products.php:65
+msgid "Include hidden meta data"
+msgstr ""
+
+#: product-import-export-for-woo/includes/views/export/html-wf-export-products.php:72
+msgid "Export Products"
+msgstr ""
+
+#: product-import-export-for-woo/includes/views/import/html-wf-import-products.php:13
+msgid "Documentation"
+msgstr ""
+
+#: product-import-export-for-woo/includes/views/import/html-wf-import-products.php:14
+msgid "Sample CSV"
+msgstr ""
+
+#: product-import-export-for-woo/includes/views/import/html-wf-import-products.php:26
+msgid "Import Products in CSV Format:"
+msgstr ""
+
+#: product-import-export-for-woo/includes/views/import/html-wf-import-products.php:27
+msgid ""
+"Import products in CSV format ( works for simple products)  from different "
+"sources"
+msgstr ""
+
+#: product-import-export-for-woo/includes/views/import/html-wf-import-products.php:33
+msgid "Import Products"
+msgstr ""
+
+#: product-import-export-for-woo/includes/views/import/html-wf-import-products.php:35
+msgid "Merge products if exists"
+msgstr ""

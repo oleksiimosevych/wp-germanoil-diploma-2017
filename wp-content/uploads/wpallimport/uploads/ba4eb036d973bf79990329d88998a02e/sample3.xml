@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<parent><![CDATA[]]></parent>
+		<parent_sku><![CDATA[]]></parent_sku>
+		<post_title><![CDATA[Test Product Name2]]></post_title>
+		<post_excerpt><![CDATA[Quod autem qui decima cum demonstraverunt. Mirum adipiscing humanitatis cum aliquam ullamcorper. In claram eu qui nisl ii. Est nonummy facer iriure in tincidunt. Et placerat in imperdiet augue processus. ]]></post_excerpt>
+		<post_content><![CDATA[Quod autem qui decima cum demonstraverunt. Mirum adipiscing humanitatis cum aliquam ullamcorper. In claram eu qui nisl ii. Est nonummy facer iriure in tincidunt. Et placerat in imperdiet augue processus. ]]></post_content>
+		<post_status><![CDATA[publish]]></post_status>
+		<menu_order><![CDATA[0]]></menu_order>
+		<post_date><![CDATA[8/18/2011 17:12]]></post_date>
+		<sku><![CDATA[TESTSKU]]></sku>
+		<downloadable><![CDATA[no]]></downloadable>
+		<virtual><![CDATA[no]]></virtual>
+		<visibility><![CDATA[visible]]></visibility>
+		<stock><![CDATA[0]]></stock>
+		<stock_status><![CDATA[instock]]></stock_status>
+		<backorders><![CDATA[no]]></backorders>
+		<manage_stock><![CDATA[no]]></manage_stock>
+		<regular_price><![CDATA[66.99]]></regular_price>
+		<sale_price><![CDATA[9.98]]></sale_price>
+		<weight><![CDATA[12]]></weight>
+		<length><![CDATA[12]]></length>
+		<width><![CDATA[12]]></width>
+		<height><![CDATA[12]]></height>
+		<tax_status><![CDATA[taxable]]></tax_status>
+		<tax_class><![CDATA[reduced-rate]]></tax_class>
+		<upsell_ids><![CDATA[1|2|3]]></upsell_ids>
+		<crosssell_ids><![CDATA[1|2]]></crosssell_ids>
+		<featured><![CDATA[no]]></featured>
+		<file_path><![CDATA[]]></file_path>
+		<download_limit><![CDATA[]]></download_limit>
+		<download_expiry><![CDATA[]]></download_expiry>
+		<product_url><![CDATA[]]></product_url>
+		<button_text><![CDATA[]]></button_text>
+		<images><![CDATA[http://ecx.images-amazon.com/images/I/61L0SPIkgVL._SL1000_.jpg]]></images>
+		<taxproduct_type><![CDATA[simple]]></taxproduct_type>
+		<taxproduct_cat><![CDATA[Games]]></taxproduct_cat>
+		<taxproduct_tag><![CDATA[Final Fantasy]]></taxproduct_tag>
+		<taxproduct_shipping_class><![CDATA[]]></taxproduct_shipping_class>
+		<metawoocommerce_sale_flash_type><![CDATA[amount]]></metawoocommerce_sale_flash_type>
+		<undefined38><![CDATA[]]></undefined38>
+		<attributepa_size><![CDATA[]]></attributepa_size>
+		<attribute_datapa_size><![CDATA[]]></attribute_datapa_size>
+	</node>
+	<node>
+		<parent><![CDATA[]]></parent>
+		<parent_sku><![CDATA[]]></parent_sku>
+		<post_title><![CDATA[Nazva masla]]></post_title>
+		<post_excerpt><![CDATA[Opis autem qui decima cum demonstraverunt. Mirum adipiscing humanitatis cum aliquam ullamcorper. In claram eu qui nisl ii. Est nonummy facer iriure in tincidunt. Et placerat in imperdiet augue processus. ]]></post_excerpt>
+		<post_content><![CDATA[Opis 2 qui decima cum demonstraverunt. Mirum adipiscing humanitatis cum aliquam ullamcorper. In claram eu qui nisl ii. Est nonummy facer iriure in tincidunt. Et placerat in imperdiet augue processus. ]]></post_content>
+		<post_status><![CDATA[publish]]></post_status>
+		<menu_order><![CDATA[0]]></menu_order>
+		<post_date><![CDATA[8/18/2016 17:12]]></post_date>
+		<sku><![CDATA[675654]]></sku>
+		<downloadable><![CDATA[no]]></downloadable>
+		<virtual><![CDATA[no]]></virtual>
+		<visibility><![CDATA[visible]]></visibility>
+		<stock><![CDATA[0]]></stock>
+		<stock_status><![CDATA[outofstock]]></stock_status>
+		<backorders><![CDATA[no]]></backorders>
+		<manage_stock><![CDATA[no]]></manage_stock>
+		<regular_price><![CDATA[254.85]]></regular_price>
+		<sale_price><![CDATA[250]]></sale_price>
+		<weight><![CDATA[12]]></weight>
+		<length><![CDATA[12]]></length>
+		<width><![CDATA[12]]></width>
+		<height><![CDATA[12]]></height>
+		<tax_status><![CDATA[taxable]]></tax_status>
+		<tax_class><![CDATA[reduced-rate]]></tax_class>
+		<upsell_ids><![CDATA[1|2|3]]></upsell_ids>
+		<crosssell_ids><![CDATA[1|2]]></crosssell_ids>
+		<featured><![CDATA[no]]></featured>
+		<file_path><![CDATA[]]></file_path>
+		<download_limit><![CDATA[]]></download_limit>
+		<download_expiry><![CDATA[]]></download_expiry>
+		<product_url><![CDATA[]]></product_url>
+		<button_text><![CDATA[]]></button_text>
+		<images><![CDATA[me.jpg]]></images>
+		<taxproduct_type><![CDATA[simple]]></taxproduct_type>
+		<taxproduct_cat><![CDATA[Ìàñëî òðàíñì³ñ³éíå]]></taxproduct_cat>
+		<taxproduct_tag><![CDATA[Final Fantasy]]></taxproduct_tag>
+		<taxproduct_shipping_class><![CDATA[]]></taxproduct_shipping_class>
+		<metawoocommerce_sale_flash_type><![CDATA[amount]]></metawoocommerce_sale_flash_type>
+		<undefined38><![CDATA[]]></undefined38>
+		<attributepa_size><![CDATA[]]></attributepa_size>
+		<attribute_datapa_size><![CDATA[]]></attribute_datapa_size>
+	</node>
+</data>

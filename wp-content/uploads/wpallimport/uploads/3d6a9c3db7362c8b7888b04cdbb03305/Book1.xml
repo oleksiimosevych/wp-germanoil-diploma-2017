@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<sku><![CDATA[6677]]></sku>
+		<price><![CDATA[764]]></price>
+		<stockqty><![CDATA[56]]></stockqty>
+	</node>
+	<node>
+		<sku><![CDATA[7766]]></sku>
+		<price><![CDATA[786]]></price>
+		<stockqty><![CDATA[800]]></stockqty>
+	</node>
+	<node>
+		<sku><![CDATA[33442]]></sku>
+		<price><![CDATA[200]]></price>
+		<stockqty><![CDATA[65]]></stockqty>
+	</node>
+	<node>
+		<sku><![CDATA[4433223]]></sku>
+		<price><![CDATA[170]]></price>
+		<stockqty><![CDATA[30]]></stockqty>
+	</node>
+</data>

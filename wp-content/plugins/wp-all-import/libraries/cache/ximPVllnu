@@ -1,0 +1,3 @@
+<?php $x0 = $this->xml;
+$v18_0 = $x0->xpath("attributenamepa_dopusky[1]");
+echo $this->getValue($v18_0);
